@@ -35,9 +35,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="313.92983"
-     inkscape:cy="2971.0261"
+     inkscape:zoom="1"
+     inkscape:cx="490.2827"
+     inkscape:cy="3071.1656"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -158,7 +158,7 @@
          x="-430"
          y="2687.3623">Technology</tspan></text>
     <rect
-       style="color:#000000;fill:#ff9bff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3137"
        width="10"
        height="10"
@@ -15619,5 +15619,15 @@
        id="path13993"
        d="m -449.0002,2830.3622 8.0004,0 -4.0002,4.0002 z"
        style="fill:#000000;stroke:none" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path13995"
+       sodipodi:cx="104.56247"
+       sodipodi:cy="196.93752"
+       sodipodi:rx="4.5625305"
+       sodipodi:ry="4.5625305"
+       d="m 109.125,196.93752 a 4.5625305,4.5625305 0 1 1 -9.125061,0 4.5625305,4.5625305 0 1 1 9.125061,0 z"
+       transform="matrix(0.87673452,0,0,0.87673452,-536.67358,2434.7004)" />
   </g>
 </svg>
