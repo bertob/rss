@@ -35,9 +35,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="506.49675"
-     inkscape:cy="2854.3986"
+     inkscape:zoom="1"
+     inkscape:cx="522.11071"
+     inkscape:cy="2932.9481"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -15618,7 +15618,7 @@
            sodipodi:role="line"
            id="tspan14007"
            x="-590"
-           y="2622.3625">Folders</tspan></text>
+           y="2622.3625">Settings</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text14009"
@@ -15651,7 +15651,7 @@
            y="2652.3625"
            x="-590"
            id="tspan14019"
-           sodipodi:role="line">Filters</tspan></text>
+           sodipodi:role="line">bla</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -15662,7 +15662,7 @@
            sodipodi:role="line"
            id="tspan14023"
            x="-590"
-           y="2682.3625">Filters</tspan></text>
+           y="2682.3625">bla</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text14025"
