@@ -35,9 +35,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="725.49571"
-     inkscape:cy="3132.7519"
+     inkscape:zoom="1"
+     inkscape:cx="496.26748"
+     inkscape:cy="3120.6355"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2455,7 +2455,7 @@
          y="3080.3633" />
     </g>
     <rect
-       style="color:#000000;fill:#ccff99;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99999981999999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99999981999999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect4655"
        width="580"
        height="700"
@@ -17143,9 +17143,9 @@
            transform="matrix(0.8,0,0,1,-88,0)" />
       </g>
       <rect
-         y="2556.3623"
+         y="2555.3623"
          x="423"
-         height="12.000105"
+         height="14.000105"
          width="14"
          id="rect15696"
          style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
@@ -17154,8 +17154,8 @@
          id="rect15700"
          width="14"
          height="3.9998953"
-         x="423"
-         y="2556.3623" />
+         x="423.00009"
+         y="2555.3623" />
     </g>
     <g
        id="g15759"
