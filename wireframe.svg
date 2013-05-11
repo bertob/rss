@@ -35,9 +35,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="250.76629"
-     inkscape:cy="2835.6177"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="506.49675"
+     inkscape:cy="2854.3986"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -46,7 +46,7 @@
      inkscape:window-x="0"
      inkscape:window-y="26"
      inkscape:window-maximized="1"
-     inkscape:snap-bbox="false"
+     inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
@@ -63,7 +63,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:snap-others="true"
-     inkscape:snap-nodes="true"
+     inkscape:snap-nodes="false"
      inkscape:snap-text-baseline="true"
      showguides="false"
      inkscape:snap-page="true">
@@ -309,7 +309,7 @@
     </g>
     <g
        id="g3449"
-       transform="translate(0,-3.59e-4)">
+       transform="translate(0,-40.00032)">
       <rect
          y="-2687.3625"
          x="-290"
@@ -15092,7 +15092,7 @@
       </g>
     </g>
     <g
-       transform="translate(0,524.99924)"
+       transform="translate(0,484.99928)"
        id="g13692">
       <rect
          transform="scale(1,-1)"
@@ -15157,7 +15157,7 @@
     </g>
     <g
        id="g13722"
-       transform="translate(0,209.99948)">
+       transform="translate(0,169.99952)">
       <rect
          y="-2687.3625"
          x="-290"
@@ -15220,7 +15220,7 @@
            id="tspan13750">ammonia coolant it uses to cool its power systems ...</tspan></text>
     </g>
     <g
-       transform="translate(0,314.9994)"
+       transform="translate(0,274.99944)"
        id="g13752">
       <rect
          transform="scale(1,-1)"
@@ -15285,7 +15285,7 @@
     </g>
     <g
        id="g13774"
-       transform="translate(0,419.99932)">
+       transform="translate(0,379.99936)">
       <rect
          y="-2687.3625"
          x="-290"
@@ -15348,7 +15348,7 @@
            id="tspan13818">Windows Phone 8 appear to be reaching a plateau.</tspan></text>
     </g>
     <g
-       transform="translate(0,104.99956)"
+       transform="translate(0,64.999599)"
        id="g13820">
       <rect
          transform="scale(1,-1)"
@@ -16791,5 +16791,76 @@
          id="path14720"
          inkscape:connector-curvature="0" />
     </g>
+    <g
+       id="g14722"
+       transform="translate(0,589.9992)">
+      <rect
+         y="-2687.3625"
+         x="-290"
+         height="104.99992"
+         width="450"
+         id="rect14724"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         transform="scale(1,-1)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text14726"
+         y="2607.3625"
+         x="-185"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+         xml:space="preserve"><tspan
+           y="2607.3625"
+           x="-185"
+           sodipodi:role="line"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+           id="tspan14728">Atmospheric carbon dioxide levels reach </tspan><tspan
+           id="tspan14730"
+           y="2624.8625"
+           x="-185"
+           sodipodi:role="line"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold">milestone high as global warming worsens</tspan></text>
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect14732"
+         width="75"
+         height="75"
+         x="-275"
+         y="2597.3625" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text14734"
+         y="2677.3625"
+         x="155"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#666666;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         xml:space="preserve"><tspan
+           y="2677.3625"
+           x="155"
+           id="tspan14736"
+           sodipodi:role="line">17 : 45</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         x="-185"
+         y="2647.3625"
+         id="text14738"
+         sodipodi:linespacing="125%"><tspan
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           sodipodi:role="line"
+           x="-185"
+           y="2647.3625"
+           id="tspan14740">Atmospheric levels of carbon dioxide (CO2), one of the </tspan><tspan
+           id="tspan14742"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           sodipodi:role="line"
+           x="-185"
+           y="2662.3625">primary gases involved in global warming, reached a ...</tspan></text>
+    </g>
+    <rect
+       style="color:#000000;fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect14744"
+       width="720.5"
+       height="54.499897"
+       x="-460.5"
+       y="3242.8623" />
   </g>
 </svg>
