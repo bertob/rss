@@ -35,9 +35,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="910.59587"
-     inkscape:cy="3536.0058"
+     inkscape:zoom="1"
+     inkscape:cx="675.08451"
+     inkscape:cy="3061.7344"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2462,13 +2462,6 @@
        x="160.00009"
        y="-3242.3623"
        transform="scale(1,-1)" />
-    <rect
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect15850"
-       width="579.99982"
-       height="49.99979"
-       x="160"
-       y="2542.3623" />
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#666666;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
