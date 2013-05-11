@@ -35,9 +35,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="1029.5703"
-     inkscape:cy="3209.6219"
+     inkscape:zoom="2"
+     inkscape:cx="260.26223"
+     inkscape:cy="2960.454"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -15663,7 +15663,7 @@
            sodipodi:role="line"
            id="tspan14023"
            x="-590"
-           y="2682.3625">bla</tspan></text>
+           y="2682.3625">About</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text14025"
@@ -15674,7 +15674,7 @@
            y="2712.3625"
            x="-590"
            id="tspan14027"
-           sodipodi:role="line">About</tspan></text>
+           sodipodi:role="line">Logout</tspan></text>
     </g>
     <text
        sodipodi:linespacing="125%"
