@@ -25,12 +25,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="450.11773"
-     inkscape:cy="342.65051"
+     inkscape:zoom="0.7"
+     inkscape:cx="-16.724767"
+     inkscape:cy="345.96964"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -6501,5 +6501,12 @@ zn31uw8Ngq4S//8BbpArdd6Fd3UAAAAASUVORK5CYII=
 "
        height="75"
        width="75" />
+    <rect
+       style="color:#000000;fill:#888888;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7879"
+       width="1240"
+       height="120"
+       x="-164.28578"
+       y="696.29102" />
   </g>
 </svg>
