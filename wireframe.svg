@@ -35,9 +35,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="939.09223"
-     inkscape:cy="2728.7431"
+     inkscape:zoom="1"
+     inkscape:cx="496.69343"
+     inkscape:cy="3054.7659"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -116,7 +116,7 @@
        x="-460.00006"
        y="2542.3623" />
     <rect
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3081"
        width="170"
        height="700.00012"
@@ -307,13 +307,6 @@
          id="rect3197"
          style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
-    <rect
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect3211"
-       width="450"
-       height="40.000004"
-       x="-290"
-       y="2542.3623" />
     <g
        id="g3449"
        transform="translate(0,-3.59e-4)">
@@ -444,18 +437,25 @@
        sodipodi:type="star" />
     <g
        id="g7124"
-       transform="translate(-7.5,2.5001543)">
+       transform="translate(-457.50026,2.5001395)">
       <rect
-         y="2552.3623"
-         x="140"
-         height="15"
-         width="15"
+         y="2549.8621"
+         x="137.49974"
+         height="20.000519"
+         width="20.000519"
          id="rect7120"
          style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect14585"
+         width="15"
+         height="15"
+         x="140"
+         y="2552.3623" />
       <path
          inkscape:connector-curvature="0"
          id="path7122"
-         d="m 149.58238,2552.362 c -2.99207,0 -5.4176,2.4256 -5.4176,5.4177 0,1.1677 0.37587,2.253 1.0045,3.1377 l -5.16928,5.1691 1.28667,1.2755 5.16928,-5.1695 c 0.88496,0.6293 1.95789,1.0046 3.12643,1.0046 2.99204,0 5.41756,-2.4254 5.41756,-5.4174 C 154.99994,2554.7876 152.57442,2552.362 149.58238,2552.362 z m 0,1.4448 c 2.19414,0 3.97287,1.7787 3.97287,3.9729 0,2.1939 -1.77873,3.9727 -3.97287,3.9727 -2.19418,0 -3.9729,-1.7788 -3.9729,-3.9727 C 145.60948,2555.5855 147.38821,2553.8068 149.58238,2553.8068 Z"
+         d="m 149.58238,2552.362 c -2.99207,0 -5.4176,2.4256 -5.4176,5.4177 0,1.1677 0.37587,2.253 1.0045,3.1377 l -5.16928,5.1691 1.28667,1.2755 5.16928,-5.1695 c 0.88496,0.6293 1.95789,1.0046 3.12643,1.0046 2.99204,0 5.41756,-2.4254 5.41756,-5.4174 0,-2.9921 -2.42552,-5.4177 -5.41756,-5.4177 z m 0,1.4448 c 2.19414,0 3.97287,1.7787 3.97287,3.9729 0,2.1939 -1.77873,3.9727 -3.97287,3.9727 -2.19418,0 -3.9729,-1.7788 -3.9729,-3.9727 0,-2.1942 1.77873,-3.9729 3.9729,-3.9729 z"
          style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
     </g>
     <path
@@ -527,20 +527,12 @@
          id="path6570"
          inkscape:connector-curvature="0" />
     </g>
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect7430"
-       width="20"
-       height="20"
-       x="10.50006"
-       y="10.4999"
-       transform="translate(-460.50006,2541.8623)" />
     <path
        inkscape:export-ydpi="70"
        inkscape:export-xdpi="70"
        inkscape:export-filename="/home/tobi/Ubuntu One/efficiam/webapps.png"
        id="path8857"
-       d="m -800.39696,2554.8626 c -0.15804,0.011 -0.29347,0.034 -0.42649,0.05 -0.009,0 -0.0228,0 -0.0317,0 l -0.22488,0 -0.0412,0.2476 -0.32566,1.7933 c -0.46775,0.125 -0.91317,0.3065 -1.32543,0.5411 l -1.47211,-1.0594 -0.18349,-0.133 -0.17434,0.133 c -0.45247,0.3512 -0.85592,0.7609 -1.21533,1.2016 l -0.14223,0.1743 0.12389,0.1743 1.009,1.4813 c -0.26917,0.4473 -0.4719,0.9427 -0.60999,1.4585 l -1.75656,0.2751 -0.22469,0.032 -0.0324,0.2248 c -0.0374,0.3035 -0.0508,0.6079 -0.0508,0.9172 0,0.2502 0.008,0.5042 0.0324,0.7568 l 0.0324,0.2109 0.21091,0.041 1.76565,0.3164 c 0.13727,0.5646 0.34888,1.0977 0.64223,1.5823 l -1.03657,1.4309 -0.13295,0.1835 0.14223,0.1696 c 0.34469,0.4283 0.7338,0.8144 1.16032,1.1558 l 0.17414,0.1422 0.17434,-0.1239 1.49978,-1.0273 c 0.4962,0.2917 1.03585,0.5046 1.61435,0.6329 l 0.27506,1.752 0.0324,0.2247 0.22468,0.023 c 0.23515,0.021 0.46935,0.018 0.6926,0.018 0.32186,-1e-4 0.63779,-0.01 0.95849,-0.05 l 0.20645,-0.032 0.0368,-0.211 0.33936,-1.7978 c 0.54773,-0.1563 1.06429,-0.4016 1.53185,-0.7063 l 1.41713,1.0319 0.18349,0.1422 0.18342,-0.1513 c 0.42484,-0.3615 0.80715,-0.7792 1.14195,-1.2246 l 0.12383,-0.1651 -0.11004,-0.1697 -1.05489,-1.5226 c 0.24461,-0.4585 0.42206,-0.9458 0.5321,-1.4676 l 1.74738,-0.2798 0.22465,-0.028 0.0184,-0.2339 c 0.0178,-0.2137 0.0184,-0.4147 0.0184,-0.6237 0,-0.3801 -0.0501,-0.7427 -0.10078,-1.0915 l -0.0273,-0.2156 -0.20631,-0.032 -1.80711,-0.3256 c -0.14311,-0.4596 -0.34416,-0.8853 -0.59156,-1.2841 l 1.05017,-1.4401 0.13297,-0.1835 -0.14203,-0.1743 c -0.37071,-0.4532 -0.79633,-0.8753 -1.26586,-1.2337 l -0.1605,-0.133 -0.17422,0.1239 -1.54097,1.0594 c -0.3907,-0.2142 -0.81264,-0.3826 -1.25672,-0.4999 l -0.27517,-1.7749 -0.0324,-0.2247 -0.22467,-0.032 c -0.28885,-0.034 -0.57616,-0.051 -0.87605,-0.051 -0.0716,0 -0.1579,0 -0.24758,0 -0.0132,0 -0.0527,0 -0.11931,0 C -800.33803,2554.8612 -800.34803,2554.8612 -800.39643,2554.8612 z m 0.24777,4.5679 c 0.0501,0 0.10067,0 0.1513,0 1.62139,0 2.93522,1.3139 2.93522,2.9352 0,1.6214 -1.31383,2.9352 -2.93522,2.9352 -1.62125,0 -2.9352,-1.3138 -2.9352,-2.9352 C -802.93309,2560.795 -801.70032,2559.5092 -800.14919,2559.4305 Z"
+       d="m -1010.397,2554.8626 c -0.158,0.011 -0.2934,0.034 -0.4264,0.05 -0.01,0 -0.023,0 -0.032,0 l -0.2249,0 -0.041,0.2476 -0.3257,1.7933 c -0.4677,0.125 -0.9132,0.3065 -1.3254,0.5411 l -1.4721,-1.0594 -0.1835,-0.133 -0.1744,0.133 c -0.4524,0.3512 -0.8559,0.7609 -1.2153,1.2016 l -0.1422,0.1743 0.1239,0.1743 1.009,1.4813 c -0.2692,0.4473 -0.4719,0.9427 -0.61,1.4585 l -1.7566,0.2751 -0.2247,0.032 -0.032,0.2248 c -0.037,0.3035 -0.051,0.6079 -0.051,0.9172 0,0.2502 0.01,0.5042 0.032,0.7568 l 0.032,0.2109 0.2109,0.041 1.7657,0.3164 c 0.1373,0.5646 0.3489,1.0977 0.6422,1.5823 l -1.0365,1.4309 -0.133,0.1835 0.1422,0.1696 c 0.3447,0.4283 0.7338,0.8144 1.1604,1.1558 l 0.1741,0.1422 0.1743,-0.1239 1.4998,-1.0273 c 0.4962,0.2917 1.0359,0.5046 1.6144,0.6329 l 0.275,1.752 0.032,0.2247 0.2247,0.023 c 0.2352,0.021 0.4694,0.018 0.6926,0.018 0.3219,-1e-4 0.6378,-0.01 0.9585,-0.05 l 0.2064,-0.032 0.037,-0.211 0.3394,-1.7978 c 0.5477,-0.1563 1.0643,-0.4016 1.5319,-0.7063 l 1.4171,1.0319 0.1835,0.1422 0.1834,-0.1513 c 0.4248,-0.3615 0.8071,-0.7792 1.1419,-1.2246 l 0.1239,-0.1651 -0.1101,-0.1697 -1.0549,-1.5226 c 0.2446,-0.4585 0.4221,-0.9458 0.5321,-1.4676 l 1.7474,-0.2798 0.2247,-0.028 0.018,-0.2339 c 0.018,-0.2137 0.018,-0.4147 0.018,-0.6237 0,-0.3801 -0.05,-0.7427 -0.1008,-1.0915 l -0.027,-0.2156 -0.2063,-0.032 -1.8071,-0.3256 c -0.1431,-0.4596 -0.3442,-0.8853 -0.5916,-1.2841 l 1.0502,-1.4401 0.133,-0.1835 -0.1421,-0.1743 c -0.3707,-0.4532 -0.7963,-0.8753 -1.2658,-1.2337 l -0.1605,-0.133 -0.1743,0.1239 -1.5409,1.0594 c -0.3907,-0.2142 -0.8127,-0.3826 -1.2567,-0.4999 l -0.2752,-1.7749 -0.032,-0.2247 -0.2247,-0.032 c -0.2888,-0.034 -0.5761,-0.051 -0.876,-0.051 -0.072,0 -0.1579,0 -0.2476,0 -0.013,0 -0.053,0 -0.1193,0 0.026,0 0.016,0 -0.032,0 z m 0.2478,4.5679 c 0.05,0 0.1007,0 0.1513,0 1.6214,0 2.9352,1.3139 2.9352,2.9352 0,1.6214 -1.3138,2.9352 -2.9352,2.9352 -1.6212,0 -2.9352,-1.3138 -2.9352,-2.9352 0,-1.5707 1.2328,-2.8565 2.7839,-2.9352 z"
        style="font-size:xx-small;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        inkscape:connector-curvature="0" />
     <g
@@ -1609,17 +1601,6 @@
          style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
          sodipodi:nodetypes="cc" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       x="-420"
-       y="2567.3623"
-       id="text6908"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6911"
-         x="-420"
-         y="2567.3623">Menu</tspan></text>
     <rect
        style="color:#000000;fill:#cccccf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35699999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect6913"
@@ -2609,34 +2590,45 @@
            sodipodi:role="line">Show previous messages</tspan></text>
     </g>
     <g
-       id="g7439"
-       style="fill:#000000"
-       transform="matrix(0.8,0,0,1,-88,0)">
+       id="g14630">
       <rect
-         style="fill:#000000;fill-opacity:1;stroke:none"
-         id="rect7433"
+         transform="translate(-460.50006,2541.8623)"
+         y="10.4999"
+         x="10.50006"
+         height="20"
          width="20"
-         height="1.9998953"
-         x="-450"
-         y="2567.3623" />
-      <rect
-         y="2555.3623"
-         x="-450"
-         height="2.0001047"
-         width="20"
-         id="rect7435"
-         style="fill:#000000;fill-opacity:1;stroke:none" />
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke:none"
-         id="rect7437"
-         width="20"
-         height="1.9998953"
-         x="-450"
-         y="2561.3623" />
+         id="rect7430"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <g
+         transform="matrix(0.8,0,0,1,-88,0)"
+         style="fill:#000000"
+         id="g7439">
+        <rect
+           y="2567.3623"
+           x="-450"
+           height="1.9998953"
+           width="20"
+           id="rect7433"
+           style="fill:#000000;fill-opacity:1;stroke:none" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           id="rect7435"
+           width="20"
+           height="2.0001047"
+           x="-450"
+           y="2555.3623" />
+        <rect
+           y="2561.3623"
+           x="-450"
+           height="1.9998953"
+           width="20"
+           id="rect7437"
+           style="fill:#000000;fill-opacity:1;stroke:none" />
+      </g>
     </g>
     <g
        id="g7455"
-       transform="translate(-420,0)">
+       transform="translate(-630,0)">
       <rect
          style="fill:#fdca01;fill-opacity:1;stroke:none"
          id="rect7445"
@@ -2674,7 +2666,7 @@
     </g>
     <g
        id="g7492"
-       transform="translate(-390,0)">
+       transform="translate(-600,0)">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:none"
          id="rect7482"
@@ -15753,5 +15745,1044 @@
        transform="translate(-560,2412.3623)"><tspan
          sodipodi:role="line"
          id="tspan14104"></tspan></text>
+    <g
+       id="g14416"
+       transform="translate(0,3630)">
+      <rect
+         y="2542.3623"
+         x="-460.00003"
+         height="700"
+         width="1200"
+         id="rect14110"
+         style="color:#000000;fill:#cccccf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35699999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect14112"
+         width="1200"
+         height="700"
+         x="-460.00006"
+         y="2542.3623" />
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect14114"
+         width="170"
+         height="700.00012"
+         x="-460"
+         y="2542.3623"
+         inkscape:export-filename="/media/Daten/projekte/mail/main_window.png"
+         inkscape:export-xdpi="67.443794"
+         inkscape:export-ydpi="67.443794" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text14116"
+         y="2612.3623"
+         x="-430.00006"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+         xml:space="preserve"><tspan
+           y="2612.3623"
+           x="-430.00006"
+           id="tspan14118"
+           sodipodi:role="line">All</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+         x="-430"
+         y="2687.3623"
+         id="text14120"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan14122"
+           x="-430"
+           y="2687.3623">Technology</tspan></text>
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect14124"
+         width="10"
+         height="10"
+         x="-450.00006"
+         y="2602.3623" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text14126"
+         y="2687.3623"
+         x="-300"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+         xml:space="preserve"><tspan
+           y="2687.3623"
+           x="-300"
+           id="tspan14128"
+           sodipodi:role="line">156</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text14130"
+         y="2717.3623"
+         x="-430"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         xml:space="preserve"><tspan
+           y="2717.3623"
+           x="-430"
+           id="tspan14132"
+           sodipodi:role="line">Free Software</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+         x="-300"
+         y="2807.3623"
+         id="text14134"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan14136"
+           x="-300"
+           y="2807.3623">574</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text14138"
+         y="2747.3623"
+         x="-430"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         xml:space="preserve"><tspan
+           y="2747.3623"
+           x="-430"
+           id="tspan14140"
+           sodipodi:role="line">Design</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+         x="-430"
+         y="2777.3623"
+         id="text14142"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan14144"
+           x="-430"
+           y="2777.3623">Programming</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+         x="-430"
+         y="2807.3623"
+         id="text14146"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan14148"
+           x="-430"
+           y="2807.3623">News</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text14150"
+         y="2837.3623"
+         x="-430"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         xml:space="preserve"><tspan
+           y="2837.3623"
+           x="-430"
+           id="tspan14152"
+           sodipodi:role="line">Typography</tspan></text>
+      <g
+         id="g14154"
+         style="fill:#ffffff;fill-opacity:1">
+        <rect
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect14156"
+           width="10"
+           height="10"
+           x="-450"
+           y="2677.3623" />
+        <rect
+           y="2707.3623"
+           x="-450"
+           height="10"
+           width="10"
+           id="rect14158"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <rect
+           y="2737.3623"
+           x="-450"
+           height="10"
+           width="10"
+           id="rect14160"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <rect
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect14162"
+           width="10"
+           height="10"
+           x="-450"
+           y="2767.3623" />
+        <rect
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect14164"
+           width="10"
+           height="10"
+           x="-450"
+           y="2797.3623" />
+        <rect
+           y="2827.3623"
+           x="-450"
+           height="10"
+           width="10"
+           id="rect14166"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      </g>
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect14168"
+         width="450"
+         height="40.000004"
+         x="-290"
+         y="2542.3623" />
+      <g
+         id="g14170"
+         transform="translate(0,-3.59e-4)">
+        <rect
+           y="-2687.3625"
+           x="-290"
+           height="104.99992"
+           width="450"
+           id="rect14172"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           transform="scale(1,-1)" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text14174"
+           y="2607.3625"
+           x="-185"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+           xml:space="preserve"><tspan
+             y="2607.3625"
+             x="-185"
+             sodipodi:role="line"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+             id="tspan14176">Microsoft responds to Windows 8 criticism, </tspan><tspan
+             y="2624.8625"
+             x="-185"
+             sodipodi:role="line"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+             id="tspan14178">defends upcoming changes as 'a good thing'</tspan></text>
+        <rect
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect14180"
+           width="75"
+           height="75"
+           x="-275"
+           y="2597.3625" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text14182"
+           y="2677.3625"
+           x="155"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#666666;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           xml:space="preserve"><tspan
+             y="2677.3625"
+             x="155"
+             id="tspan14184"
+             sodipodi:role="line">17 : 45</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           x="-185"
+           y="2647.3625"
+           id="text14186"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan14188"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+             sodipodi:role="line"
+             x="-185"
+             y="2647.3625">Windows 8 has had its share of detractors since its launch, </tspan><tspan
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+             sodipodi:role="line"
+             x="-185"
+             y="2662.3625"
+             id="tspan14190">and today Microsoft's vice president of corporate ...</tspan></text>
+      </g>
+      <g
+         id="g14192"
+         transform="translate(-7.5,2.5001543)">
+        <rect
+           y="2552.3623"
+           x="140"
+           height="15"
+           width="15"
+           id="rect14194"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path14196"
+           d="m 149.58238,2552.362 c -2.99207,0 -5.4176,2.4256 -5.4176,5.4177 0,1.1677 0.37587,2.253 1.0045,3.1377 l -5.16928,5.1691 1.28667,1.2755 5.16928,-5.1695 c 0.88496,0.6293 1.95789,1.0046 3.12643,1.0046 2.99204,0 5.41756,-2.4254 5.41756,-5.4174 0,-2.9921 -2.42552,-5.4177 -5.41756,-5.4177 z m 0,1.4448 c 2.19414,0 3.97287,1.7787 3.97287,3.9729 0,2.1939 -1.77873,3.9727 -3.97287,3.9727 -2.19418,0 -3.9729,-1.7788 -3.9729,-3.9727 0,-2.1942 1.77873,-3.9729 3.9729,-3.9729 z"
+           style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+         x="-300.00006"
+         y="2612.3623"
+         id="text14198"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan14200"
+           x="-300.00006"
+           y="2612.3623">887</tspan></text>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect14202"
+         width="20"
+         height="20"
+         x="10.50006"
+         y="10.4999"
+         transform="translate(-460.50006,2541.8623)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text14204"
+         y="2517.3623"
+         x="-463.19531"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+         xml:space="preserve"><tspan
+           style="font-size:30px"
+           y="2517.3623"
+           x="-463.19531"
+           id="tspan14206"
+           sodipodi:role="line">Main Interface</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         x="-420"
+         y="2567.3623"
+         id="text14208"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan14210"
+           x="-420"
+           y="2567.3623">Menu</tspan></text>
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99999982;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect14212"
+         width="580"
+         height="700"
+         x="160.00009"
+         y="-3242.3623"
+         transform="scale(1,-1)" />
+      <g
+         id="g14214"
+         style="fill:#000000"
+         transform="matrix(0.8,0,0,1,-88,0)">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           id="rect14216"
+           width="20"
+           height="1.9998953"
+           x="-450"
+           y="2567.3623" />
+        <rect
+           y="2555.3623"
+           x="-450"
+           height="2.0001047"
+           width="20"
+           id="rect14218"
+           style="fill:#000000;fill-opacity:1;stroke:none" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           id="rect14220"
+           width="20"
+           height="1.9998953"
+           x="-450"
+           y="2561.3623" />
+      </g>
+      <g
+         transform="translate(0,524.99924)"
+         id="g14222">
+        <rect
+           transform="scale(1,-1)"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect14224"
+           width="450"
+           height="104.99992"
+           x="-290"
+           y="-2687.3625" />
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+           x="-185"
+           y="2607.3625"
+           id="text14226"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan14228"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+             sodipodi:role="line"
+             x="-185"
+             y="2607.3625">Atmospheric carbon dioxide levels reach </tspan><tspan
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+             sodipodi:role="line"
+             x="-185"
+             y="2624.8625"
+             id="tspan14230">milestone high as global warming worsens</tspan></text>
+        <rect
+           y="2597.3625"
+           x="-275"
+           height="75"
+           width="75"
+           id="rect14232"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <text
+           xml:space="preserve"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#666666;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           x="155"
+           y="2677.3625"
+           id="text14234"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan14236"
+             x="155"
+             y="2677.3625">17 : 45</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text14238"
+           y="2647.3625"
+           x="-185"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           xml:space="preserve"><tspan
+             id="tspan14240"
+             y="2647.3625"
+             x="-185"
+             sodipodi:role="line"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">Atmospheric levels of carbon dioxide (CO2), one of the </tspan><tspan
+             y="2662.3625"
+             x="-185"
+             sodipodi:role="line"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+             id="tspan14242">primary gases involved in global warming, reached a ...</tspan></text>
+      </g>
+      <g
+         id="g14244"
+         transform="translate(0,209.99948)">
+        <rect
+           y="-2687.3625"
+           x="-290"
+           height="104.99992"
+           width="450"
+           id="rect14246"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           transform="scale(1,-1)" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text14248"
+           y="2607.3625"
+           x="-185"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+           xml:space="preserve"><tspan
+             id="tspan14250"
+             y="2607.3625"
+             x="-185"
+             sodipodi:role="line"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold">International Space Station leaking power </tspan><tspan
+             y="2624.8625"
+             x="-185"
+             sodipodi:role="line"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+             id="tspan14252">system coolant, NASA says everyone is safe</tspan></text>
+        <rect
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect14254"
+           width="75"
+           height="75"
+           x="-275"
+           y="2597.3625" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text14256"
+           y="2677.3625"
+           x="155"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#666666;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           xml:space="preserve"><tspan
+             y="2677.3625"
+             x="155"
+             id="tspan14258"
+             sodipodi:role="line">17 : 45</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           x="-185"
+           y="2647.3625"
+           id="text14260"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan14262"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+             sodipodi:role="line"
+             x="-185"
+             y="2647.3625">The International Space Station is leaking the chilled </tspan><tspan
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+             sodipodi:role="line"
+             x="-185"
+             y="2662.3625"
+             id="tspan14264">ammonia coolant it uses to cool its power systems ...</tspan></text>
+      </g>
+      <g
+         transform="translate(0,314.9994)"
+         id="g14266">
+        <rect
+           transform="scale(1,-1)"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect14268"
+           width="450"
+           height="104.99992"
+           x="-290"
+           y="-2687.3625" />
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+           x="-185"
+           y="2607.3625"
+           id="text14270"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan14272"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+             sodipodi:role="line"
+             x="-185"
+             y="2607.3625">Watch live as astronauts perform emergency </tspan><tspan
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+             sodipodi:role="line"
+             x="-185"
+             y="2624.8625"
+             id="tspan14274">spacewalk to find and fix ISS leak</tspan></text>
+        <rect
+           y="2597.3625"
+           x="-275"
+           height="75"
+           width="75"
+           id="rect14276"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <text
+           xml:space="preserve"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#666666;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           x="155"
+           y="2677.3625"
+           id="text14278"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan14280"
+             x="155"
+             y="2677.3625">17 : 45</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text14282"
+           y="2647.3625"
+           x="-185"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           xml:space="preserve"><tspan
+             id="tspan14284"
+             y="2647.3625"
+             x="-185"
+             sodipodi:role="line"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">NASA is carrying out emergency repairs on the </tspan><tspan
+             y="2662.3625"
+             x="-185"
+             sodipodi:role="line"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+             id="tspan14286">International Space Station today to try to fix an ...</tspan></text>
+      </g>
+      <g
+         id="g14288"
+         transform="translate(0,419.99932)">
+        <rect
+           y="-2687.3625"
+           x="-290"
+           height="104.99992"
+           width="450"
+           id="rect14290"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           transform="scale(1,-1)" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text14292"
+           y="2607.3625"
+           x="-185"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+           xml:space="preserve"><tspan
+             y="2607.3625"
+             x="-185"
+             sodipodi:role="line"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+             id="tspan14294">Windows Phone hits 145,000 apps, but </tspan><tspan
+             y="2624.8625"
+             x="-185"
+             sodipodi:role="line"
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+             id="tspan14296">progress slows</tspan></text>
+        <rect
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect14298"
+           width="75"
+           height="75"
+           x="-275"
+           y="2597.3625" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text14300"
+           y="2677.3625"
+           x="155"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#666666;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           xml:space="preserve"><tspan
+             y="2677.3625"
+             x="155"
+             id="tspan14302"
+             sodipodi:role="line">17 : 45</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           x="-185"
+           y="2647.3625"
+           id="text14304"
+           sodipodi:linespacing="125%"><tspan
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+             sodipodi:role="line"
+             x="-185"
+             y="2647.3625"
+             id="tspan14306">Microsoft's efforts to build out the app ecosystem for </tspan><tspan
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+             sodipodi:role="line"
+             x="-185"
+             y="2662.3625"
+             id="tspan14308">Windows Phone 8 appear to be reaching a plateau.</tspan></text>
+      </g>
+      <g
+         transform="translate(0,104.99956)"
+         id="g14310">
+        <rect
+           transform="scale(1,-1)"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect14312"
+           width="450"
+           height="104.99992"
+           x="-290"
+           y="-2687.3625" />
+        <text
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+           x="-185"
+           y="2607.3625"
+           id="text14314"
+           sodipodi:linespacing="125%"><tspan
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+             sodipodi:role="line"
+             x="-185"
+             y="2607.3625"
+             id="tspan14316">Hear the Velvet Underground fade to static on </tspan><tspan
+             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+             sodipodi:role="line"
+             x="-185"
+             y="2624.8625"
+             id="tspan14318">a laser-cut wooden record</tspan></text>
+        <rect
+           y="2597.3625"
+           x="-275"
+           height="75"
+           width="75"
+           id="rect14320"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <text
+           xml:space="preserve"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#666666;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           x="155"
+           y="2677.3625"
+           id="text14322"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan14324"
+             x="155"
+             y="2677.3625">17 : 45</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text14326"
+           y="2647.3625"
+           x="-185"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+           xml:space="preserve"><tspan
+             id="tspan14328"
+             y="2647.3625"
+             x="-185"
+             sodipodi:role="line"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">Records can be made out of just about anything: vinyl, </tspan><tspan
+             y="2662.3625"
+             x="-185"
+             sodipodi:role="line"
+             style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+             id="tspan14330">3D-printed plastic, paper, even ice. Over at ...</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+         x="-430.00006"
+         y="2642.3623"
+         id="text14332"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan14334"
+           x="-430.00006"
+           y="2642.3623">Favorites</tspan></text>
+      <rect
+         y="2632.3623"
+         x="-450.00006"
+         height="10"
+         width="10"
+         id="rect14336"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text14338"
+         y="2642.3623"
+         x="-300.00006"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+         xml:space="preserve"><tspan
+           y="2642.3623"
+           x="-300.00006"
+           id="tspan14340"
+           sodipodi:role="line">45</tspan></text>
+      <path
+         transform="matrix(0.41601544,0,0,0.41601544,-661.84812,1531.6584)"
+         inkscape:transform-center-y="-0.52796518"
+         d="m 521.25,2645.8246 2.96792,9.2027 9.66942,-0.021 -7.83515,5.6664 3.00811,9.1897 -7.8103,-5.7007 -7.8103,5.7007 3.00811,-9.1897 -7.83515,-5.6664 9.66942,0.021 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="-0.9424778"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:r2="5.0493193"
+         sodipodi:r1="13.287682"
+         sodipodi:cy="2659.1123"
+         sodipodi:cx="521.25"
+         sodipodi:sides="5"
+         id="path14342"
+         style="color:#000000;fill:#000000;stroke:none;stroke-width:2.93453979;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="star" />
+      <path
+         style="fill:#000000;stroke:none"
+         d="m -449.0002,2680.3622 8.0004,0 -4.0002,4.0002 z"
+         id="path14344"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path14346"
+         d="m -449.0002,2710.3622 8.0004,0 -4.0002,4.0002 z"
+         style="fill:#000000;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path14348"
+         d="m -449.0002,2740.3622 8.0004,0 -4.0002,4.0002 z"
+         style="fill:#000000;stroke:none" />
+      <path
+         style="fill:#000000;stroke:none"
+         d="m -449.0002,2770.3622 8.0004,0 -4.0002,4.0002 z"
+         id="path14350"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#000000;stroke:none"
+         d="m -449.0002,2800.3622 8.0004,0 -4.0002,4.0002 z"
+         id="path14352"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path14354"
+         d="m -449.0002,2830.3622 8.0004,0 -4.0002,4.0002 z"
+         style="fill:#000000;stroke:none" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path14356"
+         sodipodi:cx="104.56247"
+         sodipodi:cy="196.93752"
+         sodipodi:rx="4.5625305"
+         sodipodi:ry="4.5625305"
+         d="m 109.125,196.93752 c 0,2.51981 -2.04271,4.56253 -4.56253,4.56253 -2.51982,0 -4.562531,-2.04272 -4.562531,-4.56253 0,-2.51982 2.042711,-4.56254 4.562531,-4.56254 2.51982,0 4.56253,2.04272 4.56253,4.56254 z"
+         transform="matrix(0.87673452,0,0,0.87673452,-536.67358,2434.7004)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text14358"
+         y="2777.3623"
+         x="-300"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+         xml:space="preserve"><tspan
+           y="2777.3623"
+           x="-300"
+           id="tspan14360"
+           sodipodi:role="line">84</tspan></text>
+      <rect
+         y="2542.3623"
+         x="-600"
+         height="180.00014"
+         width="130"
+         id="rect14362"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text14364"
+         y="2622.3625"
+         x="-590"
+         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         xml:space="preserve"><tspan
+           y="2622.3625"
+           x="-590"
+           id="tspan14366"
+           sodipodi:role="line">Folders</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         x="-590"
+         y="2562.3625"
+         id="text14368"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan14370"
+           x="-590"
+           y="2562.3625">Add Feed</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text14372"
+         y="2592.3625"
+         x="-590"
+         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         xml:space="preserve"><tspan
+           y="2592.3625"
+           x="-590"
+           id="tspan14374"
+           sodipodi:role="line">Add Folder</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         x="-590"
+         y="2652.3625"
+         id="text14376"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan14378"
+           x="-590"
+           y="2652.3625">Filters</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text14380"
+         y="2682.3625"
+         x="-590"
+         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         xml:space="preserve"><tspan
+           y="2682.3625"
+           x="-590"
+           id="tspan14382"
+           sodipodi:role="line">Filters</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         x="-590"
+         y="2712.3625"
+         id="text14384"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan14386"
+           x="-590"
+           y="2712.3625">About</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text14388"
+         y="2602.3623"
+         x="230"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+         xml:space="preserve"><tspan
+           y="2602.3623"
+           x="230"
+           sodipodi:role="line"
+           style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+           id="tspan14390">Microsoft responds to Windows 8 </tspan><tspan
+           y="2629.8623"
+           x="230"
+           sodipodi:role="line"
+           style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+           id="tspan14392">criticism, defends upcoming changes </tspan><tspan
+           y="2657.3623"
+           x="230"
+           sodipodi:role="line"
+           style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+           id="tspan14394">as 'a good thing'</tspan></text>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot14396"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         transform="translate(-540,2305.8799)"><flowRegion
+           id="flowRegion14398"><rect
+             id="rect14400"
+             width="440"
+             height="556.48242"
+             x="770"
+             y="379.99991"
+             style="font-size:14px;line-height:150%" /></flowRegion><flowPara
+           id="flowPara14402">Windows 8 has had its share of detractors since its launch, and today Microsoft's vice president of corporate communications responded to recent reports that paint the operating system as a failure. In a blog post Frank X. Shaw points to two pieces in particular — one by the Financial Times and the other by The Economist — that use the likely return of the Start button as evidence that the company is backtracking on its initial vision. Stating that the articles are examples of &quot;sensationalism&quot; and &quot;hyperbole&quot; intended to drive traffic rather than provide &quot;nuanced analysis,&quot; Shaw writes that Microsoft's reaction to user complaints is actually a positive for the company.</flowPara><flowPara
+           id="flowPara14404"></flowPara><flowPara
+           id="flowPara14406">&quot;In the center, listening to feedback and improving a product is a good thing,&quot; Shaw writes. &quot;Heck, there was even a time when acknowledging that you were listening to feedback and acting on it was considered a good thing.&quot;</flowPara><flowPara
+           id="flowPara14408"></flowPara><flowPara
+           id="flowPara14410">He goes on to tout that Microsoft has sold 100 million Windows 8 licenses, and while those numbers are in line with what Microsoft saw with Windows 7 the company itself has admitted it hasn't seen the surge of touch-enabled Windows 8 devices it had hoped for. With some of Microsoft's hardware partners already expecting that Windows 8.1 will be the return to form they're looking for, there seems to be little doubt that Microsoft is responding to user feedback. However, that doesn't negate criticism that the Windows 8 bet itself hasn't quite paid off as Redmond had hoped.</flowPara><flowPara
+           id="flowPara14412" /><flowPara
+           id="flowPara14414" /></flowRoot>    </g>
+    <g
+       id="g14579">
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect14571"
+         width="450"
+         height="40.000004"
+         x="-290"
+         y="1772.3623" />
+      <g
+         id="g14573"
+         transform="translate(-7.5,-767.49985)">
+        <rect
+           y="2552.3623"
+           x="140"
+           height="15"
+           width="15"
+           id="rect14575"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path14577"
+           d="m 149.58238,2552.362 c -2.99207,0 -5.4176,2.4256 -5.4176,5.4177 0,1.1677 0.37587,2.253 1.0045,3.1377 l -5.16928,5.1691 1.28667,1.2755 5.16928,-5.1695 c 0.88496,0.6293 1.95789,1.0046 3.12643,1.0046 2.99204,0 5.41756,-2.4254 5.41756,-5.4174 0,-2.9921 -2.42552,-5.4177 -5.41756,-5.4177 z m 0,1.4448 c 2.19414,0 3.97287,1.7787 3.97287,3.9729 0,2.1939 -1.77873,3.9727 -3.97287,3.9727 -2.19418,0 -3.9729,-1.7788 -3.9729,-3.9727 0,-2.1942 1.77873,-3.9729 3.9729,-3.9729 z"
+           style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
+      </g>
+    </g>
+    <g
+       id="g14601"
+       transform="translate(-520,0)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect14587"
+         width="20"
+         height="20"
+         x="10.50006"
+         y="10.4999"
+         transform="translate(-460.50006,2541.8623)" />
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         x="-420"
+         y="2567.3623"
+         id="text14589"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan14591"
+           x="-420"
+           y="2567.3623">Menu</tspan></text>
+      <g
+         id="g14593"
+         style="fill:#000000"
+         transform="matrix(0.8,0,0,1,-88,0)">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           id="rect14595"
+           width="20"
+           height="1.9998953"
+           x="-450"
+           y="2567.3623" />
+        <rect
+           y="2555.3623"
+           x="-450"
+           height="2.0001047"
+           width="20"
+           id="rect14597"
+           style="fill:#000000;fill-opacity:1;stroke:none" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           id="rect14599"
+           width="20"
+           height="1.9998953"
+           x="-450"
+           y="2561.3623" />
+      </g>
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect7430-9"
+       width="20"
+       height="20"
+       x="-385"
+       y="2552.3623" />
+    <text
+       xml:space="preserve"
+       style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="-425"
+       y="2567.3623"
+       id="text14009-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan14011-5"
+         x="-425"
+         y="2567.3623">Brandname</tspan></text>
+    <g
+       id="g14680"
+       transform="translate(0,-170)">
+      <g
+         id="g14658"
+         transform="translate(-457.50026,-187.49986)">
+        <rect
+           y="2549.8621"
+           x="137.49974"
+           height="20.000519"
+           width="20.000519"
+           id="rect14660"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <rect
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect14662"
+           width="15"
+           height="15"
+           x="140"
+           y="2552.3623" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path14664"
+           d="m 149.58238,2552.362 c -2.99207,0 -5.4176,2.4256 -5.4176,5.4177 0,1.1677 0.37587,2.253 1.0045,3.1377 l -5.16928,5.1691 1.28667,1.2755 5.16928,-5.1695 c 0.88496,0.6293 1.95789,1.0046 3.12643,1.0046 2.99204,0 5.41756,-2.4254 5.41756,-5.4174 0,-2.9921 -2.42552,-5.4177 -5.41756,-5.4177 z m 0,1.4448 c 2.19414,0 3.97287,1.7787 3.97287,3.9729 0,2.1939 -1.77873,3.9727 -3.97287,3.9727 -2.19418,0 -3.9729,-1.7788 -3.9729,-3.9727 0,-2.1942 1.77873,-3.9729 3.9729,-3.9729 z"
+           style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
+      </g>
+      <g
+         transform="translate(0,-190)"
+         id="g14666">
+        <rect
+           transform="translate(-460.50006,2541.8623)"
+           y="10.4999"
+           x="10.50006"
+           height="20"
+           width="20"
+           id="rect14668"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+        <g
+           transform="matrix(0.8,0,0,1,-88,0)"
+           style="fill:#000000"
+           id="g14670">
+          <rect
+             y="2567.3623"
+             x="-450"
+             height="1.9998953"
+             width="20"
+             id="rect14672"
+             style="fill:#000000;fill-opacity:1;stroke:none" />
+          <rect
+             style="fill:#000000;fill-opacity:1;stroke:none"
+             id="rect14674"
+             width="20"
+             height="2.0001047"
+             x="-450"
+             y="2555.3623" />
+          <rect
+             y="2561.3623"
+             x="-450"
+             height="1.9998953"
+             width="20"
+             id="rect14676"
+             style="fill:#000000;fill-opacity:1;stroke:none" />
+        </g>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         style="font-size:xx-small;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m -375.3962,2364.8626 c -0.158,0.011 -0.2934,0.034 -0.4264,0.05 -0.01,0 -0.023,0 -0.032,0 l -0.2249,0 -0.041,0.2476 -0.3257,1.7933 c -0.4677,0.125 -0.9132,0.3065 -1.3254,0.5411 l -1.4721,-1.0594 -0.1835,-0.133 -0.1744,0.133 c -0.4524,0.3512 -0.8559,0.7609 -1.2153,1.2016 l -0.1422,0.1743 0.1239,0.1743 1.009,1.4813 c -0.2692,0.4473 -0.4719,0.9427 -0.61,1.4585 l -1.7566,0.2751 -0.2247,0.032 -0.032,0.2248 c -0.037,0.3035 -0.051,0.6079 -0.051,0.9172 0,0.2502 0.01,0.5042 0.032,0.7568 l 0.032,0.2109 0.2109,0.041 1.7657,0.3164 c 0.1373,0.5646 0.3489,1.0977 0.6422,1.5823 l -1.0365,1.4309 -0.133,0.1835 0.1422,0.1696 c 0.3447,0.4283 0.7338,0.8144 1.1604,1.1558 l 0.1741,0.1422 0.1743,-0.1239 1.4998,-1.0273 c 0.4962,0.2917 1.0359,0.5046 1.6144,0.6329 l 0.275,1.752 0.032,0.2247 0.2247,0.023 c 0.2352,0.021 0.4694,0.018 0.6926,0.018 0.3219,-1e-4 0.6378,-0.01 0.9585,-0.05 l 0.2064,-0.032 0.037,-0.211 0.3394,-1.7978 c 0.5477,-0.1563 1.0643,-0.4016 1.5319,-0.7063 l 1.4171,1.0319 0.1835,0.1422 0.1834,-0.1513 c 0.4248,-0.3615 0.8071,-0.7792 1.1419,-1.2246 l 0.1239,-0.1651 -0.1101,-0.1697 -1.0549,-1.5226 c 0.2446,-0.4585 0.4221,-0.9458 0.5321,-1.4676 l 1.7474,-0.2798 0.2247,-0.028 0.018,-0.2339 c 0.018,-0.2137 0.018,-0.4147 0.018,-0.6237 0,-0.3801 -0.05,-0.7427 -0.1008,-1.0915 l -0.027,-0.2156 -0.2063,-0.032 -1.8071,-0.3256 c -0.1431,-0.4596 -0.3442,-0.8853 -0.5916,-1.2841 l 1.0502,-1.4401 0.133,-0.1835 -0.1421,-0.1743 c -0.3707,-0.4532 -0.7963,-0.8753 -1.2658,-1.2337 l -0.1605,-0.133 -0.1743,0.1239 -1.5409,1.0594 c -0.3907,-0.2142 -0.8127,-0.3826 -1.2567,-0.4999 l -0.2752,-1.7749 -0.032,-0.2247 -0.2247,-0.032 c -0.2888,-0.034 -0.5761,-0.051 -0.876,-0.051 -0.072,0 -0.1579,0 -0.2476,0 -0.013,0 -0.053,0 -0.1193,0 0.026,0 0.016,0 -0.032,0 z m 0.2478,4.5679 c 0.05,0 0.1007,0 0.1513,0 1.6214,0 2.9352,1.3139 2.9352,2.9352 0,1.6214 -1.3138,2.9352 -2.9352,2.9352 -1.6212,0 -2.9352,-1.3138 -2.9352,-2.9352 0,-1.5707 1.2328,-2.8565 2.7839,-2.9352 z"
+         id="path14678"
+         inkscape:export-filename="/home/tobi/Ubuntu One/efficiam/webapps.png"
+         inkscape:export-xdpi="70"
+         inkscape:export-ydpi="70" />
+    </g>
   </g>
 </svg>
