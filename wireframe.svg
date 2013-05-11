@@ -36,7 +36,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="-487.63566"
+     inkscape:cx="-431.06712"
      inkscape:cy="3038.6737"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -2139,15 +2139,15 @@
        sodipodi:linespacing="125%"
        id="text3916"
        y="2897.3623"
-       x="-1140"
+       x="-1150"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        xml:space="preserve"><tspan
          y="2897.3623"
-         x="-1140"
+         x="-1150"
          id="tspan3918"
          sodipodi:role="line">Add Folder</tspan></text>
     <g
-       transform="translate(-880,329.9996)"
+       transform="translate(-890,329.9996)"
        id="g3920">
       <path
          inkscape:connector-curvature="0"
@@ -15474,11 +15474,11 @@
        sodipodi:linespacing="125%"
        id="text13876"
        y="2662.3623"
-       x="-1140.0001"
+       x="-1150.0001"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
        xml:space="preserve"><tspan
          y="2662.3623"
-         x="-1140.0001"
+         x="-1150.0001"
          id="tspan13878"
          sodipodi:role="line">Add Feed</tspan></text>
     <rect
@@ -15486,22 +15486,22 @@
        id="rect13880"
        width="10"
        height="10"
-       x="-1160.0001"
+       x="-1170.0001"
        y="2652.3623" />
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
-       x="-1010.0001"
+       x="-1020.0001"
        y="2662.3623"
        id="text13882"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan13884"
-         x="-1010.0001"
+         x="-1020.0001"
          y="2662.3623">2</tspan></text>
     <g
        id="g13902"
-       transform="translate(-710,0)">
+       transform="translate(-720,0)">
       <path
          transform="translate(-560,2412.3623)"
          inkscape:connector-curvature="0"
