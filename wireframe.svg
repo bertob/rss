@@ -36,11 +36,11 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="-267.80158"
-     inkscape:cy="3035.5751"
+     inkscape:cx="-339.73002"
+     inkscape:cy="3198.5248"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1029"
      inkscape:window-x="0"
@@ -114,62 +114,6 @@
        height="700"
        x="-460.00006"
        y="2542.3623" />
-    <g
-       id="g3907"
-       transform="translate(0,129.99892)">
-      <rect
-         y="-2627.3623"
-         x="-290"
-         height="44.999638"
-         width="450"
-         id="rect3909"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         transform="scale(1,-1)" />
-      <text
-         xml:space="preserve"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         x="-250"
-         y="2597.3623"
-         id="text3911"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3913"
-           x="-250"
-           y="2597.3623"
-           style="font-size:11px;fill:#666666">Mario, <tspan
-   style="font-weight:bold;fill:#666666;-inkscape-font-specification:Open Sans Bold"
-   id="tspan6982">Luigi,</tspan> Derp Derpington</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text3915"
-         y="2617.3623"
-         x="-250"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         xml:space="preserve"><tspan
-           y="2617.3623"
-           x="-250"
-           id="tspan3917"
-           sodipodi:role="line"
-           style="font-weight:bold;-inkscape-font-specification:Open Sans Bold">It's me, Mario</tspan></text>
-      <rect
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect3921"
-         width="20.000244"
-         height="20.000244"
-         x="-280"
-         y="2594.8623" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3923"
-         y="2597.3625"
-         x="155"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#666666;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         xml:space="preserve"><tspan
-           y="2597.3625"
-           x="155"
-           id="tspan3925"
-           sodipodi:role="line">19 : 34</tspan></text>
-    </g>
     <rect
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3081"
@@ -223,7 +167,7 @@
          sodipodi:role="line"
          id="tspan3135"
          x="-430"
-         y="2717.3623">Important</tspan></text>
+         y="2717.3623">Read Later</tspan></text>
     <rect
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3137"
@@ -398,46 +342,42 @@
        id="g3449"
        transform="translate(0,39.999641)">
       <rect
-         y="-2627.3623"
+         y="-2687.3625"
          x="-290"
-         height="44.999638"
+         height="104.99992"
          width="450"
          id="rect3423"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          transform="scale(1,-1)" />
-      <text
-         xml:space="preserve"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         x="-250"
-         y="2597.3623"
-         id="text3425"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3427"
-           x="-250"
-           y="2597.3623"
-           style="font-size:11px;fill:#666666">Some Guy, Other Dude, <tspan
-   style="font-weight:bold;fill:#666666;-inkscape-font-specification:Open Sans Bold"
-   id="tspan6977">Derp Derpington...</tspan></tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3429"
-         y="2617.3623"
-         x="-250"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         y="2607.3625"
+         x="-185"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
          xml:space="preserve"><tspan
-           y="2617.3623"
-           x="-250"
-           id="tspan3431"
+           y="2607.3625"
+           x="-185"
            sodipodi:role="line"
-           style="font-weight:bold;-inkscape-font-specification:Open Sans Bold">Hi guys what's up</tspan></text>
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+           id="tspan13660">Microsoft responds to Windows 8 </tspan><tspan
+           y="2627.3625"
+           x="-185"
+           sodipodi:role="line"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+           id="tspan13664">criticism, defends upcoming changes </tspan><tspan
+           y="2647.3625"
+           x="-185"
+           sodipodi:role="line"
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+           id="tspan13670">as 'a good thing'</tspan></text>
       <rect
          style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect3435"
-         width="20.000244"
-         height="20.000244"
-         x="-280"
-         y="2594.8623" />
+         width="75"
+         height="75"
+         x="-275"
+         y="2597.3625" />
       <text
          sodipodi:linespacing="125%"
          id="text3437"
@@ -479,60 +419,6 @@
          id="tspan3219"
          x="85"
          y="1897.3623">Search</tspan></text>
-    <g
-       id="g3943"
-       transform="translate(0,215.00026)">
-      <rect
-         y="-2627.3623"
-         x="-290"
-         height="44.999638"
-         width="450"
-         id="rect3945"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         transform="scale(1,-1)" />
-      <text
-         xml:space="preserve"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         x="-250"
-         y="2597.3623"
-         id="text3947"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3949"
-           x="-250"
-           y="2597.3623"
-           style="font-size:11px;font-weight:normal;fill:#666666;-inkscape-font-specification:Open Sans">Boring Guy, Other Boring Guy, Derp Derpington</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text3951"
-         y="2617.3623"
-         x="-250"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         xml:space="preserve"><tspan
-           y="2617.3623"
-           x="-250"
-           id="tspan3953"
-           sodipodi:role="line"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Open Sans;-inkscape-font-specification:Open Sans">Some old stuff</tspan></text>
-      <rect
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect3957"
-         width="20.000244"
-         height="20.000244"
-         x="-280"
-         y="2594.8623" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3959"
-         y="2597.3625"
-         x="155"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#666666;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         xml:space="preserve"><tspan
-           y="2597.3625"
-           x="155"
-           id="tspan3961"
-           sodipodi:role="line">March 14</tspan></text>
-    </g>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -544,73 +430,6 @@
          id="tspan3494"
          x="-280"
          y="2612.3623">New Articles</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text3496"
-       y="2787.363"
-       x="-280"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       xml:space="preserve"><tspan
-         y="2787.363"
-         x="-280"
-         id="tspan3498"
-         sodipodi:role="line">Yesterday:</tspan></text>
-    <g
-       transform="translate(0,84.99928)"
-       id="g3871">
-      <rect
-         transform="scale(1,-1)"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect3873"
-         width="450"
-         height="44.999638"
-         x="-290"
-         y="-2627.3623" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3875"
-         y="2597.3623"
-         x="-250"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         xml:space="preserve"><tspan
-           style="font-size:11px;fill:#666666"
-           y="2597.3623"
-           x="-250"
-           id="tspan3877"
-           sodipodi:role="line"><tspan
-   style="font-weight:bold;fill:#666666;-inkscape-font-specification:Open Sans Bold"
-   id="tspan6979">John Doe</tspan>, Derp Derpington</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         x="-250"
-         y="2617.3623"
-         id="text3879"
-         sodipodi:linespacing="125%"><tspan
-           style="font-weight:bold;-inkscape-font-specification:Open Sans Bold"
-           sodipodi:role="line"
-           id="tspan3881"
-           x="-250"
-           y="2617.3623">Cool story bro </tspan></text>
-      <rect
-         y="2594.8623"
-         x="-280"
-         height="20.000244"
-         width="20.000244"
-         id="rect3885"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <text
-         xml:space="preserve"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#666666;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         x="155"
-         y="2597.3625"
-         id="text3887"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3889"
-           x="155"
-           y="2597.3625">March 14</tspan></text>
-    </g>
     <path
        d="m 546.55073,1826.9413 c -2.222,-1.592 -5.316,-1.081 -6.91,1.143 l -12.498,17.447 c -1.138,1.589 -0.773,3.802 0.816,4.924 1.589,1.146 3.797,0.782 4.935,-0.807 l 8.815,-12.322 -1.149,-0.823 -8.82,12.319 0,0 c -0.684,0.95 -2.009,1.171 -2.96,0.5 -0.952,-0.677 -1.17,-2.019 -0.488,-2.972 l 0,0 12.495,-17.448 0,0 -0.003,0 c 1.136,-1.583 3.347,-1.948 4.93,-0.815 1.562,1.138 1.951,3.352 0.796,4.938 l 0,0 -13.679,19.126 10e-4,0 c -1.59,2.215 -4.692,2.73 -6.912,1.15 -2.219,-1.592 -2.73,-4.687 -1.142,-6.92 l 9.953,-13.89 -1.146,-0.819 -9.945,13.889 c -2.047,2.858 -1.389,6.833 1.47,8.871 2.859,2.051 6.834,1.386 8.881,-1.457 l 13.695,-19.129 C 549.28573,1831.6293 548.77473,1828.5363 546.55073,1826.9443 Z"
        id="Clip"
@@ -697,23 +516,6 @@
          id="path4769"
          d="m 13980,5838.3621 20.004,12.9986 19.996,-12.9986 0,21 L 13980,5859.3621 Z"
          style="fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new" />
-    </g>
-    <g
-       id="g4775"
-       transform="translate(0,10)">
-      <path
-         sodipodi:nodetypes="ccc"
-         transform="translate(-460.50006,2541.8623)"
-         inkscape:connector-curvature="0"
-         id="path4771"
-         d="M 10.499999,91.750656 15.49996,95.8126 20.49994,91.75064"
-         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         transform="translate(-460.50006,2541.8623)"
-         inkscape:connector-curvature="0"
-         id="path4773"
-         d="m 10.499999,99.249643 9.999941,0 0,-7.499003 L 10.499999,91.750656 Z"
-         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <g
        id="g6579"
@@ -1480,12 +1282,6 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccc"
        style="fill:none;stroke:#000000;stroke-width:0.99999994" />
-    <path
-       d="m 109.12296,2636.9011 -6.35849,-0.014 c -1.48471,0 -2.6856,-1.3776 -2.6797,-2.8605 0,-1.4859 1.2096,-2.8594 2.6892,-2.8604 l 8.22379,0.02 c 1.1547,0 2.0894,0.9356 2.087,2.0907 l -2e-4,4e-4 c 0,1.1544 -0.9399,2.0894 -2.0954,2.0878 l -7.3521,-0.015 c -0.8254,0 -1.4943,-0.4846 -1.4873,-1.3061 0,-0.8274 0.6678,-1.3075 1.4933,-1.306 l 5.5426,0.015"
-       id="path11861-0"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccc"
-       style="fill:none;stroke:#666666;stroke-width:1" />
     <text
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
@@ -1498,270 +1294,6 @@
          x="806.80481"
          y="3357.3623"
          style="font-size:30px">New Conversation</tspan></text>
-    <g
-       transform="translate(0,259.9999)"
-       id="g13540">
-      <rect
-         transform="scale(1,-1)"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect13542"
-         width="450"
-         height="44.999638"
-         x="-290"
-         y="-2627.3623" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text13544"
-         y="2597.3623"
-         x="-250"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         xml:space="preserve"><tspan
-           style="font-size:11px;font-weight:normal;fill:#666666;-inkscape-font-specification:Open Sans"
-           y="2597.3623"
-           x="-250"
-           id="tspan13546"
-           sodipodi:role="line">Boring Guy, Other Boring Guy, Derp Derpington</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         x="-250"
-         y="2617.3623"
-         id="text13548"
-         sodipodi:linespacing="125%"><tspan
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-           sodipodi:role="line"
-           id="tspan13550"
-           x="-250"
-           y="2617.3623">Some old stuff</tspan></text>
-      <rect
-         y="2594.8623"
-         x="-280"
-         height="20.000244"
-         width="20.000244"
-         id="rect13552"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <text
-         xml:space="preserve"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#666666;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         x="155"
-         y="2597.3625"
-         id="text13554"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan13556"
-           x="155"
-           y="2597.3625">March 14</tspan></text>
-    </g>
-    <g
-       id="g13594"
-       transform="translate(0,349.99918)">
-      <rect
-         y="-2627.3623"
-         x="-290"
-         height="44.999638"
-         width="450"
-         id="rect13596"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         transform="scale(1,-1)" />
-      <text
-         xml:space="preserve"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         x="-250"
-         y="2597.3623"
-         id="text13598"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan13600"
-           x="-250"
-           y="2597.3623"
-           style="font-size:11px;font-weight:normal;fill:#666666;-inkscape-font-specification:Open Sans">Boring Guy, Other Boring Guy, Derp Derpington</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text13602"
-         y="2617.3623"
-         x="-250"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         xml:space="preserve"><tspan
-           y="2617.3623"
-           x="-250"
-           id="tspan13604"
-           sodipodi:role="line"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Open Sans;-inkscape-font-specification:Open Sans">Some old stuff</tspan></text>
-      <rect
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect13606"
-         width="20.000244"
-         height="20.000244"
-         x="-280"
-         y="2594.8623" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text13608"
-         y="2597.3625"
-         x="155"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#666666;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         xml:space="preserve"><tspan
-           y="2597.3625"
-           x="155"
-           id="tspan13610"
-           sodipodi:role="line">March 14</tspan></text>
-    </g>
-    <g
-       transform="translate(0,529.99774)"
-       id="g7934">
-      <rect
-         transform="scale(1,-1)"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect7936"
-         width="450"
-         height="44.999638"
-         x="-290"
-         y="-2627.3623" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text7938"
-         y="2597.3623"
-         x="-250"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         xml:space="preserve"><tspan
-           style="font-size:11px;font-weight:normal;fill:#666666;-inkscape-font-specification:Open Sans"
-           y="2597.3623"
-           x="-250"
-           id="tspan7940"
-           sodipodi:role="line">Boring Guy, Other Boring Guy, Derp Derpington</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         x="-250"
-         y="2617.3623"
-         id="text7942"
-         sodipodi:linespacing="125%"><tspan
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-           sodipodi:role="line"
-           id="tspan7944"
-           x="-250"
-           y="2617.3623">Some old stuff</tspan></text>
-      <rect
-         y="2594.8623"
-         x="-280"
-         height="20.000244"
-         width="20.000244"
-         id="rect7946"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <text
-         xml:space="preserve"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#666666;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         x="155"
-         y="2597.3625"
-         id="text7948"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan7950"
-           x="155"
-           y="2597.3625">March 14</tspan></text>
-      <g
-         transform="translate(211.00002,19.001911)"
-         id="g7956">
-        <rect
-           y="2588.3625"
-           x="-71"
-           height="9.9999571"
-           width="9.9999571"
-           id="rect7958"
-           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           rx="2.3333178"
-           ry="2.3333178" />
-        <text
-           sodipodi:linespacing="125%"
-           id="text7960"
-           y="2596.179"
-           x="-68.316429"
-           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
-           xml:space="preserve"><tspan
-             y="2596.179"
-             x="-68.316429"
-             id="tspan7962"
-             sodipodi:role="line">3</tspan></text>
-      </g>
-    </g>
-    <g
-       transform="translate(0,574.99738)"
-       id="g7964">
-      <rect
-         transform="scale(1,-1)"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect7966"
-         width="450"
-         height="44.999638"
-         x="-290"
-         y="-2627.3623" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text7968"
-         y="2597.3623"
-         x="-250"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         xml:space="preserve"><tspan
-           style="font-size:11px;font-weight:normal;fill:#666666;-inkscape-font-specification:Open Sans"
-           y="2597.3623"
-           x="-250"
-           id="tspan7970"
-           sodipodi:role="line">Boring Guy, Other Boring Guy, Derp Derpington</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         x="-250"
-         y="2617.3623"
-         id="text7972"
-         sodipodi:linespacing="125%"><tspan
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-           sodipodi:role="line"
-           id="tspan7974"
-           x="-250"
-           y="2617.3623">Some old stuff</tspan></text>
-      <rect
-         y="2594.8623"
-         x="-280"
-         height="20.000244"
-         width="20.000244"
-         id="rect7976"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <text
-         xml:space="preserve"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#666666;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         x="155"
-         y="2597.3625"
-         id="text7978"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan7980"
-           x="155"
-           y="2597.3625">March 14</tspan></text>
-      <g
-         transform="translate(211.00002,19.002271)"
-         id="g7986">
-        <rect
-           y="2588.3625"
-           x="-71"
-           height="9.9999571"
-           width="9.9999571"
-           id="rect7988"
-           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           rx="2.3333178"
-           ry="2.3333178" />
-        <text
-           sodipodi:linespacing="125%"
-           id="text7990"
-           y="2596.179"
-           x="-68.316429"
-           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
-           xml:space="preserve"><tspan
-             y="2596.179"
-             x="-68.316429"
-             id="tspan7992"
-             sodipodi:role="line">3</tspan></text>
-      </g>
-    </g>
     <text
        sodipodi:linespacing="125%"
        id="text8083"
@@ -3020,28 +2552,6 @@
          x="226"
          y="3080.3633" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       x="-280"
-       y="2922.3623"
-       id="text4647"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4649"
-         x="-280"
-         y="2922.3623">Last Week:</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text4651"
-       y="3102.3623"
-       x="-280"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       xml:space="preserve"><tspan
-         y="3102.3623"
-         x="-280"
-         id="tspan4653"
-         sodipodi:role="line">Last Month:</tspan></text>
     <rect
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99999982;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect4655"
@@ -15668,113 +15178,39 @@
         </g>
       </g>
     </g>
-    <g
-       transform="translate(0,394.99882)"
-       id="g13558">
-      <rect
-         transform="scale(1,-1)"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect13560"
-         width="450"
-         height="44.999638"
-         x="-290"
-         y="-2627.3623" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text13562"
-         y="2597.3623"
-         x="-250"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         xml:space="preserve"><tspan
-           style="font-size:11px;font-weight:normal;fill:#666666;-inkscape-font-specification:Open Sans"
-           y="2597.3623"
-           x="-250"
-           id="tspan13564"
-           sodipodi:role="line">Boring Guy, Other Boring Guy, Derp Derpington</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         x="-250"
-         y="2617.3623"
-         id="text13566"
-         sodipodi:linespacing="125%"><tspan
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-           sodipodi:role="line"
-           id="tspan13568"
-           x="-250"
-           y="2617.3623">Some old stuff</tspan></text>
-      <rect
-         y="2594.8623"
-         x="-280"
-         height="20.000244"
-         width="20.000244"
-         id="rect13570"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <text
-         xml:space="preserve"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#666666;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         x="155"
-         y="2597.3625"
-         id="text13572"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan13574"
-           x="155"
-           y="2597.3625">March 14</tspan></text>
-    </g>
-    <g
-       id="g13576"
-       transform="translate(0,439.99846)">
-      <rect
-         y="-2627.3623"
-         x="-290"
-         height="44.999638"
-         width="450"
-         id="rect13578"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         transform="scale(1,-1)" />
-      <text
-         xml:space="preserve"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         x="-250"
-         y="2597.3623"
-         id="text13580"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan13582"
-           x="-250"
-           y="2597.3623"
-           style="font-size:11px;font-weight:normal;fill:#666666;-inkscape-font-specification:Open Sans">Boring Guy, Other Boring Guy, Derp Derpington</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text13584"
-         y="2617.3623"
-         x="-250"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         xml:space="preserve"><tspan
-           y="2617.3623"
-           x="-250"
-           id="tspan13586"
-           sodipodi:role="line"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Open Sans;-inkscape-font-specification:Open Sans">Some old stuff</tspan></text>
-      <rect
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect13588"
-         width="20.000244"
-         height="20.000244"
-         x="-280"
-         y="2594.8623" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text13590"
-         y="2597.3625"
-         x="155"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#666666;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         xml:space="preserve"><tspan
-           y="2597.3625"
-           x="155"
-           id="tspan13592"
-           sodipodi:role="line">March 14</tspan></text>
-    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 113,231.9999 7,0"
+       id="path13648"
+       inkscape:connector-curvature="0"
+       transform="translate(-560,2412.3623)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13650"
+       d="m -447,2647.3622 7,0"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -447,2650.3622 7,0"
+       id="path13652"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13654"
+       d="m -448,2650.3622 -2,0"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -448,2647.3622 -2,0"
+       id="path13656"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13658"
+       d="m -448,2644.3622 -2,0"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
