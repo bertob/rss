@@ -35,12 +35,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="199.70262"
-     inkscape:cy="2988.5218"
+     inkscape:zoom="1"
+     inkscape:cx="721.79479"
+     inkscape:cy="2923.9498"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1029"
      inkscape:window-x="0"
@@ -15702,5 +15702,39 @@
          id="tspan14027"
          x="-580"
          y="2712.3625">About</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3429-6"
+       y="2602.3623"
+       x="210"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+       xml:space="preserve"><tspan
+         y="2602.3623"
+         x="210"
+         sodipodi:role="line"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+         id="tspan13664-4">Microsoft responds to Windows 8 criticism, </tspan><tspan
+         y="2619.8623"
+         x="210"
+         sodipodi:role="line"
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+         id="tspan13670-2">defends upcoming changes as 'a good thing'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       x="210"
+       y="2692.3623"
+       id="text13678-6"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan13682-0"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         sodipodi:role="line"
+         x="210"
+         y="2692.3623">Windows 8 has had its share of detractors since its launch, </tspan><tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         sodipodi:role="line"
+         x="210"
+         y="2707.3623"
+         id="tspan13688-8">and today Microsoft's vice president of corporate ...</tspan></text>
   </g>
 </svg>
