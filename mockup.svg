@@ -25,12 +25,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="467.1811"
-     inkscape:cy="8.9140403"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="529.41449"
+     inkscape:cy="571.63081"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -85,7 +85,7 @@
        y="-23.708971"
        x="-164.28584"
        height="740"
-       width="1240"
+       width="1230"
        id="rect7820"
        style="color:#000000;fill:#888888;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <rect
@@ -93,7 +93,7 @@
        y="-646.29102"
        x="-144.28581"
        height="700"
-       width="1200.0001"
+       width="1190"
        id="rect8092"
        style="color:#000000;fill:#888888;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:export-filename="/home/tobi/SparkleShare/rss/mockup.png"
@@ -103,13 +103,13 @@
        y="-3.7089703"
        x="-144.28581"
        height="700"
-       width="1200"
+       width="1190"
        id="rect3085"
        style="color:#000000;fill:#cccccf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35699999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <rect
-       style="color:#000000;fill:#424242;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#424242;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect3091"
-       width="1200"
+       width="1190"
        height="700"
        x="-144.28584"
        y="-3.7089703"
@@ -134,9 +134,9 @@
        id="g9698">
       <rect
          y="-131.29095"
-         x="25.714281"
+         x="25.714279"
          height="124.99992"
-         width="489.99988"
+         width="480"
          id="rect3423"
          style="color:#000000;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          transform="scale(1,-1)" />
@@ -198,16 +198,16 @@
        id="rect4655"
        width="539.99963"
        height="700"
-       x="515.71454"
+       x="505.71454"
        y="-696.29102"
        transform="scale(1,-1)" />
     <g
        id="g9793">
       <rect
          transform="scale(1,-1)"
-         style="color:#000000;fill:#424242;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994000000003;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;fill:#424242;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect9722"
-         width="489.99988"
+         width="480"
          height="124.99972"
          x="25.714161"
          y="-381.29074" />
@@ -270,9 +270,9 @@
          transform="scale(1,-1)"
          style="color:#000000;fill:#424242;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect13822"
-         width="489.99988"
+         width="480"
          height="124.99972"
-         x="25.71422"
+         x="25.714218"
          y="-256.29086" />
       <text
          xml:space="preserve"
@@ -408,21 +408,21 @@
        sodipodi:linespacing="125%"
        id="text3429-6"
        y="76.291046"
-       x="565.71423"
+       x="555.71423"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#282828;fill-opacity:1;stroke:none;font-family:Roboto Slab;-inkscape-font-specification:Roboto Slab Bold"
        xml:space="preserve"><tspan
          y="76.291046"
-         x="565.71423"
+         x="555.71423"
          sodipodi:role="line"
          style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#282828;fill-opacity:1;font-family:Roboto Slab;-inkscape-font-specification:Roboto Slab Bold"
          id="tspan13664-4">Microsoft responds to Windows 8 </tspan><tspan
          y="103.79105"
-         x="565.71423"
+         x="555.71423"
          sodipodi:role="line"
          style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#282828;fill-opacity:1;font-family:Roboto Slab;-inkscape-font-specification:Roboto Slab Bold"
          id="tspan13670-2">criticism, defends upcoming changes </tspan><tspan
          y="131.29105"
-         x="565.71423"
+         x="555.71423"
          sodipodi:role="line"
          style="font-size:22px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#282828;fill-opacity:1;font-family:Roboto Slab;-inkscape-font-specification:Roboto Slab Bold"
          id="tspan14100">as 'a good thing'</tspan></text>
@@ -430,7 +430,7 @@
        xml:space="preserve"
        id="flowRoot14076"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#282828;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       transform="translate(-204.28579,-220.19136)"><flowRegion
+       transform="translate(-214.28579,-220.19136)"><flowRegion
          id="flowRegion14078"><rect
            id="rect14080"
            width="440"
@@ -510,7 +510,7 @@
     </g>
     <g
        id="g15649"
-       transform="matrix(0.74999985,0,0,0.74999985,400.71415,-1892.9805)">
+       transform="matrix(0.74999985,0,0,0.74999985,390.71415,-1892.9805)">
       <rect
          y="2552.3621"
          x="220"
@@ -545,7 +545,7 @@
     </g>
     <g
        id="g15852"
-       transform="matrix(0.74998817,0,0,0.74998817,490.72192,-1892.9504)">
+       transform="matrix(0.74998817,0,0,0.74998817,480.72192,-1892.9504)">
       <rect
          transform="translate(-560,2412.3623)"
          y="139.99989"
@@ -604,7 +604,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.7499985,0,0,0.7499985,415.71484,-1892.977)"
+       transform="matrix(0.7499985,0,0,0.7499985,405.71484,-1892.977)"
        id="g3649">
       <g
          id="g3651"
@@ -644,7 +644,7 @@
          style="fill:none;stroke:#000000;stroke-width:1.333336;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <g
-       transform="matrix(0.75,0,0,0.75,480.71412,-1892.9809)"
+       transform="matrix(0.75,0,0,0.75,470.71412,-1892.9809)"
        id="g3637">
       <g
          transform="translate(870,1.3580302e-7)"
@@ -1793,9 +1793,9 @@
        id="g9874">
       <rect
          transform="scale(1,-1)"
-         style="color:#000000;fill:#424242;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994000000003;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;fill:#424242;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect9722-5-4"
-         width="489.99988"
+         width="480"
          height="124.99972"
          x="25.714161"
          y="-631.29047" />
@@ -1866,9 +1866,9 @@
          y="-506.29074"
          x="25.714161"
          height="124.99972"
-         width="489.99988"
+         width="480"
          id="rect9722-5"
-         style="color:#000000;fill:#424242;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994000000003;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;fill:#424242;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          transform="scale(1,-1)" />
       <text
          xml:space="preserve"
@@ -1944,9 +1944,9 @@
          y="-756.29016"
          x="25.714161"
          height="124.99972"
-         width="489.99988"
+         width="480"
          id="rect9722-5-4-5"
-         style="color:#000000;fill:#424242;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994000000003;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;fill:#424242;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          transform="scale(1,-1)" />
       <text
          xml:space="preserve"
@@ -2089,7 +2089,7 @@
     <rect
        style="color:#000000;fill:#888888;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect7879"
-       width="1240"
+       width="1230"
        height="120"
        x="-164.28584"
        y="696.29102" />
