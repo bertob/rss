@@ -27,10 +27,10 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
      inkscape:cx="529.41449"
-     inkscape:cy="571.63081"
+     inkscape:cy="410.0064"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -131,7 +131,8 @@
        x="25.714161"
        y="-3.7089703" />
     <g
-       id="g9698">
+       id="g9698"
+       transform="translate(0,-10)">
       <rect
          y="-131.29095"
          x="25.714279"
@@ -202,7 +203,8 @@
        y="-696.29102"
        transform="scale(1,-1)" />
     <g
-       id="g9793">
+       id="g9793"
+       transform="translate(0,-10)">
       <rect
          transform="scale(1,-1)"
          style="color:#000000;fill:#424242;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -265,7 +267,8 @@
            id="tspan13750">ammonia coolant it uses to cool its power systems ...</tspan></text>
     </g>
     <g
-       id="g9781">
+       id="g9781"
+       transform="translate(0,-10)">
       <rect
          transform="scale(1,-1)"
          style="color:#000000;fill:#424242;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -1790,7 +1793,8 @@
        height="75"
        width="75" />
     <g
-       id="g9874">
+       id="g9874"
+       transform="translate(0,-10)">
       <rect
          transform="scale(1,-1)"
          style="color:#000000;fill:#424242;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -1861,7 +1865,8 @@
        height="75"
        width="75" />
     <g
-       id="g9833">
+       id="g9833"
+       transform="translate(0,-10)">
       <rect
          y="-506.29074"
          x="25.714161"
@@ -1939,7 +1944,8 @@
        height="74.999992"
        width="74.999992" />
     <g
-       id="g9915">
+       id="g9915"
+       transform="translate(0,-10)">
       <rect
          y="-756.29016"
          x="25.714161"
