@@ -25,12 +25,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="235.61125"
-     inkscape:cy="470.11161"
+     inkscape:zoom="2.8"
+     inkscape:cx="206.21363"
+     inkscape:cy="483.60591"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -9860,6 +9860,13 @@ AAAAAElFTkSuQmCC
          width="170"
          id="rect3081"
          style="color:#000000;fill:#2a2a2a;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         y="186.29103"
+         x="-144.28584"
+         height="19.999998"
+         width="170"
+         id="rect12136"
+         style="color:#000000;fill:#424242;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
          style="color:#000000;fill:#424242;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect10783"
