@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="14.395734"
-     inkscape:cy="183.82117"
+     inkscape:zoom="1.979899"
+     inkscape:cx="448.72175"
+     inkscape:cy="741.4243"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -6145,5 +6145,34 @@
        width="230"
        id="rect8087"
        style="color:#000000;fill:#2a2a2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect8094"
+       width="32.829956"
+       height="60.104076"
+       x="586.39355"
+       y="-162.16519"
+       transform="translate(-144.28584,-3.7089703)" />
+    <rect
+       y="-165.87416"
+       x="474.93768"
+       height="60.104076"
+       width="32.829956"
+       id="rect8096"
+       style="color:#000000;fill:#424242;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:#2a2a2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect8098"
+       width="32.829956"
+       height="60.104076"
+       x="507.76764"
+       y="-165.87416" />
+    <rect
+       y="-165.87416"
+       x="409.27777"
+       height="60.104076"
+       width="32.829956"
+       id="rect8100"
+       style="color:#000000;fill:#f8f8f8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
 </svg>
