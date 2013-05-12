@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-34.613073"
-     inkscape:cy="-4409.1761"
+     inkscape:zoom="1.4"
+     inkscape:cx="430.06473"
+     inkscape:cy="517.07693"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -9270,7 +9270,7 @@
        width="10"
        height="10"
        x="-109.28584"
-       y="186.29103" />
+       y="196.29103" />
     <image
        y="177.3696"
        x="-508.03967"
@@ -9866,7 +9866,7 @@ AAAAAElFTkSuQmCC
          width="170"
          height="20"
          x="-144.28584"
-         y="181.29103" />
+         y="191.29103" />
       <text
          xml:space="preserve"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
@@ -9911,21 +9911,21 @@ AAAAAElFTkSuQmCC
          xml:space="preserve"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          x="-114.28577"
-         y="306.29102"
+         y="326.29102"
          id="text3153"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan3155"
            x="-114.28577"
-           y="306.29102">Free Software</tspan></text>
+           y="326.29102">Free Software</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3159"
-         y="396.29102"
+         y="416.29102"
          x="15.714225"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          xml:space="preserve"><tspan
-           y="396.29102"
+           y="416.29102"
            x="15.714225"
            id="tspan3161"
            sodipodi:role="line">&gt;999</tspan></text>
@@ -9933,32 +9933,32 @@ AAAAAElFTkSuQmCC
          xml:space="preserve"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          x="-114.28577"
-         y="336.29102"
+         y="356.29102"
          id="text3163"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan3165"
            x="-114.28577"
-           y="336.29102">Design</tspan></text>
+           y="356.29102">Design</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3173"
-         y="366.29102"
+         y="386.29102"
          x="-114.28577"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          xml:space="preserve"><tspan
-           y="366.29102"
+           y="386.29102"
            x="-114.28577"
            id="tspan3175"
            sodipodi:role="line">Programming</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3183"
-         y="396.29102"
+         y="416.29102"
          x="-114.28577"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          xml:space="preserve"><tspan
-           y="396.29102"
+           y="416.29102"
            x="-114.28577"
            id="tspan3185"
            sodipodi:role="line">News</tspan></text>
@@ -9966,13 +9966,13 @@ AAAAAElFTkSuQmCC
          xml:space="preserve"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          x="-114.28577"
-         y="426.29102"
+         y="446.29102"
          id="text3193"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan3195"
            x="-114.28577"
-           y="426.29102">Typography</tspan></text>
+           y="446.29102">Typography</tspan></text>
       <rect
          style="color:#000000;fill:#2a2a2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect3147"
@@ -9981,14 +9981,14 @@ AAAAAElFTkSuQmCC
          x="-134.28578"
          y="166.291" />
       <rect
-         y="296.29102"
+         y="316.29102"
          x="-134.28578"
          height="10"
          width="10"
          id="rect3157"
          style="color:#000000;fill:#2a2a2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
-         y="326.29102"
+         y="346.29102"
          x="-134.28578"
          height="10"
          width="10"
@@ -10000,16 +10000,16 @@ AAAAAElFTkSuQmCC
          width="10"
          height="10"
          x="-134.28578"
-         y="356.29102" />
+         y="376.29102" />
       <rect
          style="color:#000000;fill:#2a2a2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect3187"
          width="10"
          height="10"
          x="-134.28578"
-         y="386.29102" />
+         y="406.29102" />
       <rect
-         y="416.29102"
+         y="436.29102"
          x="-134.28578"
          height="10"
          width="10"
@@ -10117,27 +10117,27 @@ AAAAAElFTkSuQmCC
          style="fill:#eeeeee;stroke:none" />
       <path
          style="fill:#eeeeee;stroke:none"
-         d="m -133.28598,299.29093 8.0004,0 -4.0002,4.0002 z"
+         d="m -133.28598,319.29093 8.0004,0 -4.0002,4.0002 z"
          id="path13985"
          inkscape:connector-curvature="0" />
       <path
          style="fill:#eeeeee;stroke:none"
-         d="m -133.28598,329.29093 8.0004,0 -4.0002,4.0002 z"
+         d="m -133.28598,349.29093 8.0004,0 -4.0002,4.0002 z"
          id="path13987"
          inkscape:connector-curvature="0" />
       <path
          inkscape:connector-curvature="0"
          id="path13989"
-         d="m -133.28598,359.29093 8.0004,0 -4.0002,4.0002 z"
+         d="m -133.28598,379.29093 8.0004,0 -4.0002,4.0002 z"
          style="fill:#eeeeee;stroke:none" />
       <path
          inkscape:connector-curvature="0"
          id="path13991"
-         d="m -133.28598,389.29093 8.0004,0 -4.0002,4.0002 z"
+         d="m -133.28598,409.29093 8.0004,0 -4.0002,4.0002 z"
          style="fill:#eeeeee;stroke:none" />
       <path
          style="fill:#eeeeee;stroke:none"
-         d="m -133.28598,419.29093 8.0004,0 -4.0002,4.0002 z"
+         d="m -133.28598,439.29093 8.0004,0 -4.0002,4.0002 z"
          id="path13993"
          inkscape:connector-curvature="0" />
       <path
@@ -10154,13 +10154,13 @@ AAAAAElFTkSuQmCC
          xml:space="preserve"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          x="15.714225"
-         y="366.29102"
+         y="386.29102"
          id="text13997"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan13999"
            x="15.714225"
-           y="366.29102">84</tspan></text>
+           y="386.29102">84</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text14708"
@@ -10191,22 +10191,22 @@ AAAAAElFTkSuQmCC
       <text
          sodipodi:linespacing="125%"
          id="text10536"
-         y="196.29102"
+         y="206.29102"
          x="-94.285767"
          style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#c5c7c7;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          xml:space="preserve"><tspan
-           y="196.29102"
+           y="206.29102"
            x="-94.285767"
            id="tspan10538"
            sodipodi:role="line">The Verge</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text10540"
-         y="216.29102"
+         y="226.29102"
          x="-94.285767"
          style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1e82ad;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          xml:space="preserve"><tspan
-           y="216.29102"
+           y="226.29102"
            x="-94.285767"
            id="tspan10542"
            sodipodi:role="line">Engadget</tspan></text>
@@ -10214,43 +10214,43 @@ AAAAAElFTkSuQmCC
          xml:space="preserve"
          style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#149600;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          x="-94.285767"
-         y="236.29102"
+         y="246.29102"
          id="text10544"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan10546"
            x="-94.285767"
-           y="236.29102">Techcrunch</tspan></text>
+           y="246.29102">Techcrunch</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#d3ffff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          x="-94.285767"
-         y="256.29102"
+         y="266.29102"
          id="text10548"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan10550"
            x="-94.285767"
-           y="256.29102">The H Online</tspan></text>
+           y="266.29102">The H Online</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text10552"
-         y="276.29102"
+         y="286.29102"
          x="-94.285767"
          style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff5b00;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          xml:space="preserve"><tspan
-           y="276.29102"
+           y="286.29102"
            x="-94.285767"
            id="tspan10554"
            sodipodi:role="line">Ars Technica</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text10556"
-         y="196.29103"
+         y="206.29103"
          x="15.714225"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#c5c7c7;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          xml:space="preserve"><tspan
-           y="196.29103"
+           y="206.29103"
            x="15.714225"
            id="tspan10558"
            sodipodi:role="line">71</tspan></text>
@@ -10258,21 +10258,21 @@ AAAAAElFTkSuQmCC
          xml:space="preserve"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#149600;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          x="15.714225"
-         y="236.29103"
+         y="246.29103"
          id="text10560"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan10562"
            x="15.714225"
-           y="236.29103">34</tspan></text>
+           y="246.29103">34</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text10564"
-         y="256.29102"
+         y="266.29102"
          x="15.714225"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#d3ffff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          xml:space="preserve"><tspan
-           y="256.29102"
+           y="266.29102"
            x="15.714225"
            id="tspan10566"
            sodipodi:role="line">51</tspan></text>
@@ -10295,7 +10295,7 @@ r3J5PrcwMTFxcKOubmXfMB7wPIdEIoH19XUQxpp9Pt9iLk9yC9k8aW//WFhUdAsAdra3xwYCgdv/
 "
          id="image10578"
          x="-109.28584"
-         y="186.29103" />
+         y="196.29103" />
       <image
          width="9.999999"
          height="9.999999"
@@ -10310,7 +10310,7 @@ BQAKp8de50iTR9nJPgX7TB9153/XXwFOrR4o4BMCwH/aJiP9eAAAAABJRU5ErkJggg==
 "
          id="image10589"
          x="-109.28584"
-         y="246.29103" />
+         y="256.29102" />
       <image
          width="10.000003"
          height="10.000003"
@@ -10320,7 +10320,7 @@ OI1jFJnG8J+BAsBEieZhYgALjPE6E3tYik5nxCoPE6fYBYzo0QizCd1mGB8dUC8MCAH6hQGpYOAT
 "
          id="image10600"
          x="-109.28584"
-         y="226.29103" />
+         y="236.29103" />
       <image
          width="10.000003"
          height="10.000003"
@@ -10336,7 +10336,7 @@ dgAAAABJRU5ErkJggg==
 "
          id="image10622"
          x="-109.28584"
-         y="266.29102" />
+         y="276.29102" />
       <image
          width="9.999999"
          height="9.999999"
@@ -10353,7 +10353,7 @@ VfA3/gVp86LeayaYxQAAAABJRU5ErkJggg==
 "
          id="image10633"
          x="-109.28584"
-         y="206.29103" />
+         y="216.29103" />
     </g>
     <g
        id="g11908"
