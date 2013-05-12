@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="512.53281"
-     inkscape:cy="548.85537"
+     inkscape:zoom="2.8"
+     inkscape:cx="189.17145"
+     inkscape:cy="514.37569"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -7477,7 +7477,7 @@
          id="text10536"
          y="196.29102"
          x="-104.28577"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          xml:space="preserve"><tspan
            y="196.29102"
            x="-104.28577"
@@ -7507,7 +7507,7 @@
            y="236.29102">Techcrunch</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          x="-104.28577"
          y="256.29102"
          id="text10548"
@@ -7521,12 +7521,45 @@
          id="text10552"
          y="276.29102"
          x="-104.28577"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          xml:space="preserve"><tspan
            y="276.29102"
            x="-104.28577"
            id="tspan10554"
            sodipodi:role="line">Ars Technica</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text10556"
+         y="196.29103"
+         x="15.714225"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         xml:space="preserve"><tspan
+           y="196.29103"
+           x="15.714225"
+           id="tspan10558"
+           sodipodi:role="line">71</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         x="15.714225"
+         y="236.29103"
+         id="text10560"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan10562"
+           x="15.714225"
+           y="236.29103">34</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text10564"
+         y="256.29102"
+         x="15.714225"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         xml:space="preserve"><tspan
+           y="256.29102"
+           x="15.714225"
+           id="tspan10566"
+           sodipodi:role="line">51</tspan></text>
     </g>
     <g
        id="g9503"
