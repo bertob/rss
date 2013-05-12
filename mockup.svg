@@ -7195,21 +7195,21 @@
          xml:space="preserve"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          x="-114.28577"
-         y="296.29102"
+         y="306.29102"
          id="text3153"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan3155"
            x="-114.28577"
-           y="296.29102">Free Software</tspan></text>
+           y="306.29102">Free Software</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3159"
-         y="386.29102"
+         y="396.29102"
          x="15.714225"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          xml:space="preserve"><tspan
-           y="386.29102"
+           y="396.29102"
            x="15.714225"
            id="tspan3161"
            sodipodi:role="line">&gt;999</tspan></text>
@@ -7217,32 +7217,32 @@
          xml:space="preserve"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          x="-114.28577"
-         y="326.29102"
+         y="336.29102"
          id="text3163"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan3165"
            x="-114.28577"
-           y="326.29102">Design</tspan></text>
+           y="336.29102">Design</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3173"
-         y="356.29102"
+         y="366.29102"
          x="-114.28577"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          xml:space="preserve"><tspan
-           y="356.29102"
+           y="366.29102"
            x="-114.28577"
            id="tspan3175"
            sodipodi:role="line">Programming</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3183"
-         y="386.29102"
+         y="396.29102"
          x="-114.28577"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          xml:space="preserve"><tspan
-           y="386.29102"
+           y="396.29102"
            x="-114.28577"
            id="tspan3185"
            sodipodi:role="line">News</tspan></text>
@@ -7250,13 +7250,13 @@
          xml:space="preserve"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          x="-114.28577"
-         y="416.29102"
+         y="426.29102"
          id="text3193"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan3195"
            x="-114.28577"
-           y="416.29102">Typography</tspan></text>
+           y="426.29102">Typography</tspan></text>
       <rect
          style="color:#000000;fill:#2a2a2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect3147"
@@ -7265,14 +7265,14 @@
          x="-134.28578"
          y="166.291" />
       <rect
-         y="286.29102"
+         y="296.29102"
          x="-134.28578"
          height="10"
          width="10"
          id="rect3157"
          style="color:#000000;fill:#2a2a2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
-         y="316.29102"
+         y="326.29102"
          x="-134.28578"
          height="10"
          width="10"
@@ -7284,16 +7284,16 @@
          width="10"
          height="10"
          x="-134.28578"
-         y="346.29102" />
+         y="356.29102" />
       <rect
          style="color:#000000;fill:#2a2a2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect3187"
          width="10"
          height="10"
          x="-134.28578"
-         y="376.29102" />
+         y="386.29102" />
       <rect
-         y="406.29102"
+         y="416.29102"
          x="-134.28578"
          height="10"
          width="10"
@@ -7401,27 +7401,27 @@
          style="fill:#eeeeee;stroke:none" />
       <path
          style="fill:#eeeeee;stroke:none"
-         d="m -133.28598,289.29093 8.0004,0 -4.0002,4.0002 z"
+         d="m -133.28598,299.29093 8.0004,0 -4.0002,4.0002 z"
          id="path13985"
          inkscape:connector-curvature="0" />
       <path
          style="fill:#eeeeee;stroke:none"
-         d="m -133.28598,319.29093 8.0004,0 -4.0002,4.0002 z"
+         d="m -133.28598,329.29093 8.0004,0 -4.0002,4.0002 z"
          id="path13987"
          inkscape:connector-curvature="0" />
       <path
          inkscape:connector-curvature="0"
          id="path13989"
-         d="m -133.28598,349.29093 8.0004,0 -4.0002,4.0002 z"
+         d="m -133.28598,359.29093 8.0004,0 -4.0002,4.0002 z"
          style="fill:#eeeeee;stroke:none" />
       <path
          inkscape:connector-curvature="0"
          id="path13991"
-         d="m -133.28598,379.29093 8.0004,0 -4.0002,4.0002 z"
+         d="m -133.28598,389.29093 8.0004,0 -4.0002,4.0002 z"
          style="fill:#eeeeee;stroke:none" />
       <path
          style="fill:#eeeeee;stroke:none"
-         d="m -133.28598,409.29093 8.0004,0 -4.0002,4.0002 z"
+         d="m -133.28598,419.29093 8.0004,0 -4.0002,4.0002 z"
          id="path13993"
          inkscape:connector-curvature="0" />
       <path
@@ -7438,13 +7438,13 @@
          xml:space="preserve"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          x="15.714225"
-         y="356.29102"
+         y="366.29102"
          id="text13997"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan13999"
            x="15.714225"
-           y="356.29102">84</tspan></text>
+           y="366.29102">84</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text14708"
