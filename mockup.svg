@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="448.72175"
-     inkscape:cy="741.4243"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="392.02354"
+     inkscape:cy="429.85635"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -6148,30 +6148,29 @@
     <rect
        style="color:#000000;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect8094"
-       width="32.829956"
-       height="60.104076"
-       x="586.39355"
-       y="-162.16519"
-       transform="translate(-144.28584,-3.7089703)" />
+       width="44.999996"
+       height="85"
+       x="460.71411"
+       y="-198.70897" />
     <rect
-       y="-165.87416"
-       x="474.93768"
-       height="60.104076"
-       width="32.829956"
+       y="-198.70897"
+       x="505.71411"
+       height="85"
+       width="44.999996"
        id="rect8096"
        style="color:#000000;fill:#424242;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <rect
        style="color:#000000;fill:#2a2a2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect8098"
-       width="32.829956"
-       height="60.104076"
-       x="507.76764"
-       y="-165.87416" />
+       width="44.999996"
+       height="85"
+       x="550.71417"
+       y="-198.70897" />
     <rect
-       y="-165.87416"
-       x="409.27777"
-       height="60.104076"
-       width="32.829956"
+       y="-198.70897"
+       x="415.71417"
+       height="85"
+       width="44.999996"
        id="rect8100"
        style="color:#000000;fill:#f8f8f8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
