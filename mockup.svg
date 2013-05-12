@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="191.24175"
-     inkscape:cy="229.24364"
+     inkscape:zoom="1.979899"
+     inkscape:cx="217.79788"
+     inkscape:cy="485.37164"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -342,7 +342,7 @@
          y="2542.3623" />
       <text
          xml:space="preserve"
-         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         style="font-size:12.50000000000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          x="-590"
          y="2622.3625"
          id="text14005"
@@ -356,7 +356,7 @@
          id="text14009"
          y="2562.3625"
          x="-590"
-         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         style="font-size:12.50000000000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          xml:space="preserve"><tspan
            y="2562.3625"
            x="-590"
@@ -364,7 +364,7 @@
            sodipodi:role="line">Add Feed</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         style="font-size:12.50000000000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          x="-590"
          y="2592.3625"
          id="text14013"
@@ -378,7 +378,7 @@
          id="text14017"
          y="2652.3625"
          x="-590"
-         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         style="font-size:12.50000000000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          xml:space="preserve"><tspan
            y="2652.3625"
            x="-590"
@@ -386,7 +386,7 @@
            sodipodi:role="line">bla</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         style="font-size:12.50000000000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          x="-590"
          y="2682.3625"
          id="text14021"
@@ -400,7 +400,7 @@
          id="text14025"
          y="2712.3625"
          x="-590"
-         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         style="font-size:12.50000000000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          xml:space="preserve"><tspan
            y="2712.3625"
            x="-590"
@@ -9866,7 +9866,7 @@ AAAAAElFTkSuQmCC
          width="170"
          height="30.000002"
          x="-144.28584"
-         y="186.29103" />
+         y="206.29103" />
       <text
          xml:space="preserve"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
@@ -10189,28 +10189,6 @@ AAAAAElFTkSuQmCC
            style="fill:#eeeeee;fill-opacity:1;stroke:none;display:inline" />
       </g>
       <text
-         sodipodi:linespacing="125%"
-         id="text10536"
-         y="206.29102"
-         x="-94.285767"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         xml:space="preserve"><tspan
-           y="206.29102"
-           x="-94.285767"
-           id="tspan10538"
-           sodipodi:role="line">The Verge</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text10540"
-         y="231.29102"
-         x="-94.285767"
-         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b2b2b2;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-         xml:space="preserve"><tspan
-           y="231.29102"
-           x="-94.285767"
-           id="tspan10542"
-           sodipodi:role="line">Engadget</tspan></text>
-      <text
          xml:space="preserve"
          style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          x="-94.285767"
@@ -10225,13 +10203,13 @@ AAAAAElFTkSuQmCC
          xml:space="preserve"
          style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          x="-94.285767"
-         y="271.29102"
+         y="201.29103"
          id="text10548"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan10550"
            x="-94.285767"
-           y="271.29102">The H Online</tspan></text>
+           y="201.29103">The H Online</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text10552"
@@ -10243,17 +10221,6 @@ AAAAAElFTkSuQmCC
            x="-94.285767"
            id="tspan10554"
            sodipodi:role="line">Ars Technica</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text10556"
-         y="206.29103"
-         x="15.714225"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         xml:space="preserve"><tspan
-           y="206.29103"
-           x="15.714225"
-           id="tspan10558"
-           sodipodi:role="line">71</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
@@ -10268,18 +10235,44 @@ AAAAAElFTkSuQmCC
       <text
          sodipodi:linespacing="125%"
          id="text10564"
-         y="271.29102"
-         x="15.714228"
+         y="201.29103"
+         x="15.714163"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          xml:space="preserve"><tspan
-           y="271.29102"
-           x="15.714228"
+           y="201.29103"
+           x="15.714163"
            id="tspan10566"
            sodipodi:role="line">51</tspan></text>
-      <image
-         width="9.9999981"
-         height="9.9999981"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAApZJREFU
+      <g
+         id="g12129"
+         transform="translate(2.8955078e-6,-44.999986)">
+        <text
+           xml:space="preserve"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+           x="-94.285767"
+           y="271.29102"
+           id="text10536"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan10538"
+             x="-94.285767"
+             y="271.29102">The Verge</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+           x="15.714224"
+           y="271.29102"
+           id="text10556"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan10558"
+             x="15.714224"
+             y="271.29102">71</tspan></text>
+        <image
+           y="261.29102"
+           x="-109.28584"
+           id="image10578"
+           xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAApZJREFU
 OI2NkF9IU1Ecx7/n/nF3NjaViljsJUxjgWUaOjXYi1b0MMGiQWBq0FtmvpUQPslgcNVZ2IMvST0I
 +ZwghOZDICPkitOceqW5oTl1Mu+5W955emmhK6Xv0zk/Pp/f73cOAQDY7fn4j9gBxGIx2CsqEA0G
 QQihBMBD8Hk9J6sZ8HkSAMBskvBm8DVsNivGxsdfCNeqqrtFnrdnMhkwxkAIB0LIEV0UBWxs/MDy
@@ -10293,9 +10286,9 @@ XTU1acMwbgIEdbW1uFJWBlVVEY2uAYw9D/T3fzrsHNkAAApttgGN0m+qugLGGBhjUFUVuq4vFFit
 r3J5PrcwMTFxcKOubmXfMB7wPIdEIoH19XUQxpp9Pt9iLk9yC9k8aW//WFhUdAsAdra3xwYCgdv/
 4oTjGvAc17mnaRcBIE8Unx3HnRi32y243e5jhwDALxvwFDkZqgJlAAAAAElFTkSuQmCC
 "
-         id="image10578"
-         x="-109.28584"
-         y="196.29103" />
+           height="9.9999981"
+           width="9.9999981" />
+      </g>
       <image
          width="9.999999"
          height="9.999999"
@@ -10310,7 +10303,7 @@ BQAKp8de50iTR9nJPgX7TB9153/XXwFOrR4o4BMCwH/aJiP9eAAAAABJRU5ErkJggg==
 "
          id="image10589"
          x="-109.28584"
-         y="261.29102" />
+         y="191.29103" />
       <image
          width="10.000003"
          height="10.000003"
@@ -10337,10 +10330,25 @@ dgAAAABJRU5ErkJggg==
          id="image10622"
          x="-109.28584"
          y="281.29102" />
-      <image
-         width="9.999999"
-         height="9.999999"
-         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAdFJREFU
+      <g
+         id="g12124"
+         transform="translate(2.8955078e-6,44.999999)">
+        <text
+           xml:space="preserve"
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b2b2b2;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+           x="-94.285767"
+           y="226.29102"
+           id="text10540"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan10542"
+             x="-94.285767"
+             y="226.29102">Engadget</tspan></text>
+        <image
+           y="216.29103"
+           x="-109.28584"
+           id="image10633"
+           xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAdFJREFU
 OI2lk19IU3EUxz+/XWcNV+ownBI205Ygo+nAaP3DngzaQ0SGFajQQ/ZQj9FLYPSS5JMghG8hTJD+
 zDSSSKLBmATJ4LosFdLbcsGFlIWr2b2/3vbQNRX2fTyc74dzvpwjau49kRQgWyFmgKJ/C4oQPO0+
 jcOukFrLMvnpG2OqxvqGsSlA/G8FmwCPy8l5Xw1tDdX0Tc3y+vPK9isIATeOH6ajqRZTSvrfJrk8
@@ -10351,9 +10359,9 @@ EVE1Kkp2WQGn6iq5/eID08s6je5SHoYCDETn6J1MYJiSiKphSokp4e6rhBVgtwl6247w8/cG7r0O
 IqoGwOz3NQC01fW8Kb6kWwGGlIzMfOHlxxQ5w2Q1m9ssX4vyIQ7FF7ge9DJ+rZVHF4/uyAxbnPJO
 VfA3/gVp86LeayaYxQAAAABJRU5ErkJggg==
 "
-         id="image10633"
-         x="-109.28584"
-         y="221.29103" />
+           height="9.999999"
+           width="9.999999" />
+      </g>
     </g>
     <g
        id="g11908"
