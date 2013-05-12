@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="493.72244"
-     inkscape:cy="114.74544"
+     inkscape:cx="512.53281"
+     inkscape:cy="548.85537"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -7195,21 +7195,21 @@
          xml:space="preserve"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          x="-114.28577"
-         y="206.29103"
+         y="296.29102"
          id="text3153"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan3155"
            x="-114.28577"
-           y="206.29103">Free Software</tspan></text>
+           y="296.29102">Free Software</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3159"
-         y="296.29102"
+         y="386.29102"
          x="15.714225"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          xml:space="preserve"><tspan
-           y="296.29102"
+           y="386.29102"
            x="15.714225"
            id="tspan3161"
            sodipodi:role="line">&gt;999</tspan></text>
@@ -7217,32 +7217,32 @@
          xml:space="preserve"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          x="-114.28577"
-         y="236.29103"
+         y="326.29102"
          id="text3163"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan3165"
            x="-114.28577"
-           y="236.29103">Design</tspan></text>
+           y="326.29102">Design</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3173"
-         y="266.29102"
+         y="356.29102"
          x="-114.28577"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          xml:space="preserve"><tspan
-           y="266.29102"
+           y="356.29102"
            x="-114.28577"
            id="tspan3175"
            sodipodi:role="line">Programming</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text3183"
-         y="296.29102"
+         y="386.29102"
          x="-114.28577"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          xml:space="preserve"><tspan
-           y="296.29102"
+           y="386.29102"
            x="-114.28577"
            id="tspan3185"
            sodipodi:role="line">News</tspan></text>
@@ -7250,60 +7250,55 @@
          xml:space="preserve"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          x="-114.28577"
-         y="326.29102"
+         y="416.29102"
          id="text3193"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan3195"
            x="-114.28577"
-           y="326.29102">Typography</tspan></text>
-      <g
-         transform="translate(315.71422,-2511.0713)"
-         style="fill:#ffffff;fill-opacity:1"
-         id="g13977">
-        <rect
-           y="2677.3623"
-           x="-450"
-           height="10"
-           width="10"
-           id="rect3147"
-           style="color:#000000;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           style="color:#000000;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect3157"
-           width="10"
-           height="10"
-           x="-450"
-           y="2707.3623" />
-        <rect
-           style="color:#000000;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect3167"
-           width="10"
-           height="10"
-           x="-450"
-           y="2737.3623" />
-        <rect
-           y="2767.3623"
-           x="-450"
-           height="10"
-           width="10"
-           id="rect3177"
-           style="color:#000000;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           y="2797.3623"
-           x="-450"
-           height="10"
-           width="10"
-           id="rect3187"
-           style="color:#000000;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-        <rect
-           style="color:#000000;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="rect3197"
-           width="10"
-           height="10"
-           x="-450"
-           y="2827.3623" />
-      </g>
+           y="416.29102">Typography</tspan></text>
+      <rect
+         style="color:#000000;fill:#2a2a2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3147"
+         width="10"
+         height="10"
+         x="-134.28578"
+         y="166.291" />
+      <rect
+         y="286.29102"
+         x="-134.28578"
+         height="10"
+         width="10"
+         id="rect3157"
+         style="color:#000000;fill:#2a2a2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         y="316.29102"
+         x="-134.28578"
+         height="10"
+         width="10"
+         id="rect3167"
+         style="color:#000000;fill:#2a2a2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="color:#000000;fill:#2a2a2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3177"
+         width="10"
+         height="10"
+         x="-134.28578"
+         y="346.29102" />
+      <rect
+         style="color:#000000;fill:#2a2a2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3187"
+         width="10"
+         height="10"
+         x="-134.28578"
+         y="376.29102" />
+      <rect
+         y="406.29102"
+         x="-134.28578"
+         height="10"
+         width="10"
+         id="rect3197"
+         style="color:#000000;fill:#2a2a2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <text
          sodipodi:linespacing="125%"
          id="text7146"
@@ -7406,27 +7401,27 @@
          style="fill:#eeeeee;stroke:none" />
       <path
          style="fill:#eeeeee;stroke:none"
-         d="m -133.28598,199.29093 8.0004,0 -4.0002,4.0002 z"
+         d="m -133.28598,289.29093 8.0004,0 -4.0002,4.0002 z"
          id="path13985"
          inkscape:connector-curvature="0" />
       <path
          style="fill:#eeeeee;stroke:none"
-         d="m -133.28598,229.29093 8.0004,0 -4.0002,4.0002 z"
+         d="m -133.28598,319.29093 8.0004,0 -4.0002,4.0002 z"
          id="path13987"
          inkscape:connector-curvature="0" />
       <path
          inkscape:connector-curvature="0"
          id="path13989"
-         d="m -133.28598,259.29093 8.0004,0 -4.0002,4.0002 z"
+         d="m -133.28598,349.29093 8.0004,0 -4.0002,4.0002 z"
          style="fill:#eeeeee;stroke:none" />
       <path
          inkscape:connector-curvature="0"
          id="path13991"
-         d="m -133.28598,289.29093 8.0004,0 -4.0002,4.0002 z"
+         d="m -133.28598,379.29093 8.0004,0 -4.0002,4.0002 z"
          style="fill:#eeeeee;stroke:none" />
       <path
          style="fill:#eeeeee;stroke:none"
-         d="m -133.28598,319.29093 8.0004,0 -4.0002,4.0002 z"
+         d="m -133.28598,409.29093 8.0004,0 -4.0002,4.0002 z"
          id="path13993"
          inkscape:connector-curvature="0" />
       <path
@@ -7443,13 +7438,13 @@
          xml:space="preserve"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
          x="15.714225"
-         y="266.29102"
+         y="356.29102"
          id="text13997"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan13999"
            x="15.714225"
-           y="266.29102">84</tspan></text>
+           y="356.29102">84</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text14708"
@@ -7477,6 +7472,61 @@
            d="m 149.58238,2552.362 c -2.99207,0 -5.4176,2.4256 -5.4176,5.4177 0,1.1677 0.37587,2.253 1.0045,3.1377 l -5.16928,5.1691 1.28667,1.2755 5.16928,-5.1695 c 0.88496,0.6293 1.95789,1.0046 3.12643,1.0046 2.99204,0 5.41756,-2.4254 5.41756,-5.4174 0,-2.9921 -2.42552,-5.4177 -5.41756,-5.4177 z m 0,1.4448 c 2.19414,0 3.97287,1.7787 3.97287,3.9729 0,2.1939 -1.77873,3.9727 -3.97287,3.9727 -2.19418,0 -3.9729,-1.7788 -3.9729,-3.9727 0,-2.1942 1.77873,-3.9729 3.9729,-3.9729 z"
            style="fill:#eeeeee;fill-opacity:1;stroke:none;display:inline" />
       </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text10536"
+         y="196.29102"
+         x="-104.28577"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         xml:space="preserve"><tspan
+           y="196.29102"
+           x="-104.28577"
+           id="tspan10538"
+           sodipodi:role="line">The Verge</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text10540"
+         y="216.29102"
+         x="-104.28577"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         xml:space="preserve"><tspan
+           y="216.29102"
+           x="-104.28577"
+           id="tspan10542"
+           sodipodi:role="line">Engadget</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         x="-104.28577"
+         y="236.29102"
+         id="text10544"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan10546"
+           x="-104.28577"
+           y="236.29102">Techcrunch</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         x="-104.28577"
+         y="256.29102"
+         id="text10548"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan10550"
+           x="-104.28577"
+           y="256.29102">The H Online</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text10552"
+         y="276.29102"
+         x="-104.28577"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         xml:space="preserve"><tspan
+           y="276.29102"
+           x="-104.28577"
+           id="tspan10554"
+           sodipodi:role="line">Ars Technica</tspan></text>
     </g>
     <g
        id="g9503"
