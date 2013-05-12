@@ -25,12 +25,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="189.34729"
-     inkscape:cy="489.24166"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="-66.404835"
+     inkscape:cy="413.33712"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -9272,8 +9272,8 @@
        x="-109.28584"
        y="196.29103" />
     <image
-       y="177.3696"
-       x="-508.03967"
+       y="96.291031"
+       x="-804.28583"
        id="image10611"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJ4AAACeCAYAAADDhbN7AAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJzsvXmQ5dd13/c59/f29/r1vs70TM+GWTDYBwAJECAgSpREkUXKWhLTouxIFcmRnVScVCr5w5WM
@@ -9846,8 +9846,8 @@ zRFTWJ1wS2ERs6BmHmlcs+eCDctupIuDGub+ca7oxOf/9mfoICrFWf3O7+uKvB8of4as0ZDLXDM7
 VAso44Ho2olS4HwQrw6Uu484q5P782b92QdFuFIktCS1CgUqEQd0dWwFE+vlsC//L4jlwrzNRkTS
 AAAAAElFTkSuQmCC
 "
-       height="158"
-       width="158" />
+       height="80"
+       width="80" />
     <g
        id="g10706">
       <rect
