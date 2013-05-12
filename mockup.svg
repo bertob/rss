@@ -25,12 +25,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="767.11877"
-     inkscape:cy="703.31996"
+     inkscape:zoom="2.8"
+     inkscape:cx="752.23677"
+     inkscape:cy="619.68526"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -11957,18 +11957,17 @@ VfA3/gVp86LeayaYxQAAAABJRU5ErkJggg==
       </g>
       <g
          id="g12355"
-         transform="matrix(0.7499985,0,0,0.7499985,405.71484,-1892.977)">
+         transform="matrix(0.7499985,0,0,0.7499985,410.71484,-1892.977)">
         <g
            transform="translate(910,1.3580302e-7)"
            id="g12357">
           <rect
-             y="10.4999"
-             x="10.50006"
-             height="20"
-             width="20"
+             y="2549.6958"
+             x="-452.66638"
+             height="25.332792"
+             width="25.332792"
              id="rect12359"
-             style="fill:#e9e9e9;fill-opacity:1;stroke:none"
-             transform="translate(-460.50006,2541.8623)" />
+             style="fill:#e9e9e9;fill-opacity:1;stroke:none" />
         </g>
         <path
            sodipodi:nodetypes="cc"
@@ -11997,7 +11996,7 @@ VfA3/gVp86LeayaYxQAAAABJRU5ErkJggg==
       </g>
       <g
          id="g12369"
-         transform="matrix(0.75,0,0,0.75,470.71412,-1892.9809)">
+         transform="matrix(0.75,0,0,0.75,465.71412,-1892.9809)">
         <g
            id="g12371"
            transform="translate(870,1.3580302e-7)">
@@ -12013,6 +12012,13 @@ VfA3/gVp86LeayaYxQAAAABJRU5ErkJggg==
              id="g12375"
              style="fill:#000000"
              transform="matrix(0.8,0,0,1,-88,0)" />
+          <rect
+             y="2549.6958"
+             x="-452.66629"
+             height="25.33259"
+             width="25.33259"
+             id="rect12435"
+             style="fill:#c8c8c8;fill-opacity:1;stroke:none" />
         </g>
         <rect
            y="2555.3623"
