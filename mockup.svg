@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="485.19008"
-     inkscape:cy="814.38843"
+     inkscape:cx="591.70214"
+     inkscape:cy="468.65972"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -11505,7 +11505,8 @@
       </g>
     </g>
     <g
-       id="g12534">
+       id="g12534"
+       transform="translate(0,-280)">
       <rect
          y="-3.7089701"
          x="505.71417"
@@ -11583,11 +11584,11 @@
              sodipodi:cy="151.99989"
              sodipodi:rx="1"
              sodipodi:ry="1"
-             d="m 1219,151.99989 a 1,1 0 1 1 -2,0 A 1,1 0 1 1 1219,151.99989 Z"
+             d="m 1219,151.99989 c 0,0.55229 -0.4477,1 -1,1 -0.5523,0 -1,-0.44771 -1,-1 0,-0.55228 0.4477,-1 1,-1 C 1218.5523,150.99989 1219,151.44761 1219,151.99989 Z"
              transform="matrix(2.0000098,0,0,2.0000098,-1768.512,2256.3609)" />
           <path
              transform="matrix(2.0000098,0,0,2.0000098,-1768.512,2265.3609)"
-             d="m 1219,151.99989 a 1,1 0 1 1 -2,0 A 1,1 0 1 1 1219,151.99989 Z"
+             d="m 1219,151.99989 c 0,0.55229 -0.4477,1 -1,1 -0.5523,0 -1,-0.44771 -1,-1 0,-0.55228 0.4477,-1 1,-1 C 1218.5523,150.99989 1219,151.44761 1219,151.99989 Z"
              sodipodi:ry="1"
              sodipodi:rx="1"
              sodipodi:cy="151.99989"
@@ -11597,7 +11598,7 @@
              sodipodi:type="arc" />
           <path
              transform="matrix(2.0000189,0,0,2.0000189,-1778.523,2260.8596)"
-             d="m 1219,151.99989 a 1,1 0 1 1 -2,0 A 1,1 0 1 1 1219,151.99989 Z"
+             d="m 1219,151.99989 c 0,0.55229 -0.4477,1 -1,1 -0.5523,0 -1,-0.44771 -1,-1 0,-0.55228 0.4477,-1 1,-1 C 1218.5523,150.99989 1219,151.44761 1219,151.99989 Z"
              sodipodi:ry="1"
              sodipodi:rx="1"
              sodipodi:cy="151.99989"
@@ -11688,7 +11689,7 @@
     </g>
     <g
        id="g5936"
-       transform="translate(0,-130)">
+       transform="translate(-1.5258789e-5,-2.3841858e-7)">
       <rect
          style="color:#000000;fill:#e9e9e9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect5938"
@@ -12551,7 +12552,7 @@
     </g>
     <g
        id="g6569"
-       transform="translate(0,-490)">
+       transform="translate(0,-510)">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:none"
          id="rect6551"
@@ -12607,13 +12608,13 @@
     <g
        id="g6582">
       <rect
-         transform="translate(-144.28584,-3.7089703)"
          y="0"
          x="170"
          height="60"
          width="480"
          id="rect6584"
-         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         transform="translate(-144.28584,-3.7089703)" />
       <g
          id="g6586">
         <path
@@ -12660,7 +12661,7 @@
     </g>
     <g
        id="g6602"
-       transform="translate(0,-430)">
+       transform="translate(0,-450)">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:none"
          id="rect6604"
