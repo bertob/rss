@@ -96,8 +96,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.50416664"
-     inkscape:cx="-107.77561"
-     inkscape:cy="386.37669"
+     inkscape:cx="-266.45331"
+     inkscape:cy="862.40977"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -221,7 +221,7 @@
        width="160"
        height="20.000002"
        x="-379.28583"
-       y="-103.70897" />
+       y="-243.70897" />
     <rect
        style="color:#000000;fill:#424242;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect4403"
@@ -5644,16 +5644,16 @@
        width="230"
        height="59.999992"
        x="-654.28583"
-       y="-203.70897" />
+       y="-343.70898" />
     <rect
-       y="-263.70898"
+       y="-403.70898"
        x="-654.28583"
        height="59.999992"
        width="230"
        id="rect8083"
        style="color:#000000;fill:#585858;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <rect
-       y="-143.70897"
+       y="-283.70898"
        x="-654.28583"
        height="59.999992"
        width="230"
@@ -5661,7 +5661,7 @@
        style="color:#000000;fill:#2a2a2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <g
        id="g2338"
-       transform="translate(0,-110)">
+       transform="translate(0,-250)">
       <rect
          y="-198.70897"
          x="-359.28589"
@@ -10866,9 +10866,9 @@
        width="128.57143"
        height="53.57143"
        x="-817.14294"
-       y="-240.13754" />
+       y="-380.13754" />
     <rect
-       y="-186.5661"
+       y="-326.5661"
        x="-817.14294"
        height="53.57143"
        width="128.57143"
@@ -10880,7 +10880,7 @@
        width="128.57143"
        height="53.57143"
        x="-817.14294"
-       y="-132.99469" />
+       y="-272.99469" />
     <g
        id="g12219"
        transform="translate(0,-500)">
@@ -11976,7 +11976,7 @@
     </g>
     <g
        id="g6085"
-       transform="translate(-775,-580)">
+       transform="translate(-775,-720)">
       <rect
          style="fill:#2a2a2a;fill-opacity:1;stroke:none"
          id="rect6059"
@@ -12202,7 +12202,7 @@
     </g>
     <g
        id="g6248"
-       transform="translate(-730,-580)">
+       transform="translate(-730,-720)">
       <rect
          style="fill:#2a2a2a;fill-opacity:1;stroke:none"
          id="rect6208"
@@ -12349,7 +12349,7 @@
     </g>
     <g
        id="g6322"
-       transform="translate(-730,-370)">
+       transform="translate(-730,-510)">
       <rect
          style="fill:#2a2a2a;fill-opacity:1;stroke:none"
          id="rect6324"
@@ -12403,7 +12403,7 @@
     </g>
     <g
        id="g6340"
-       transform="translate(-730,-410)">
+       transform="translate(-730,-550)">
       <rect
          style="fill:#424242;fill-opacity:1;stroke:none"
          id="rect6342"
