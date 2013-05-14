@@ -53,12 +53,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0083333"
-     inkscape:cx="-1328.5514"
-     inkscape:cy="609.24466"
+     inkscape:zoom="2.0166666"
+     inkscape:cx="-1238.168"
+     inkscape:cy="651.31758"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -13341,7 +13341,7 @@
        style="fill:#eeeeee;fill-opacity:1;stroke:none"
        id="rect2393"
        width="72.5"
-       height="122.14285"
+       height="355"
        x="-1436.7859"
        y="-173.70897" />
     <g
@@ -13547,7 +13547,7 @@
     </g>
     <g
        id="g2668"
-       transform="translate(180,0)">
+       transform="translate(230,0)">
       <path
          inkscape:connector-curvature="0"
          d="m -1581.4663,7.190747 0,-12.518713 5.6294,0 0,10.895181 c 0,2.154694 0.2236,4.256424 3.0515,4.256424 2.83,0 3.0551,-2.10173 3.0551,-4.256424 l 0,-10.895181 5.6263,0 0,12.518713 c 0,4.845132 -3.107,7.533534 -8.6814,7.533534 -5.7409,0 -8.6809,-2.688402 -8.6809,-7.533534"
@@ -13745,5 +13745,23 @@
            x="111.02089"
            y="45.71299">The Verge</tspan></text>
     </g>
+    <rect
+       y="126.29103"
+       x="-1934.2859"
+       height="60"
+       width="480"
+       id="rect3184"
+       style="fill:#424242;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeee;fill-opacity:1;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway Ultra-Bold"
+       x="-1805.2374"
+       y="166.95602"
+       id="text3196"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3198"
+         x="-1805.2374"
+         y="166.95602">OMG! UBUNTU!</tspan></text>
   </g>
 </svg>
