@@ -54,11 +54,11 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0083333"
-     inkscape:cx="-1090.5348"
+     inkscape:cx="-1328.5514"
      inkscape:cy="609.24466"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -13640,7 +13640,8 @@
       </g>
     </g>
     <g
-       id="g2326">
+       id="g2326"
+       transform="translate(0,80)">
       <rect
          style="fill:#424242;fill-opacity:1;stroke:none"
          id="rect2314"
