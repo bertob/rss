@@ -95,12 +95,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0083333"
-     inkscape:cx="432.01758"
-     inkscape:cy="378.11323"
+     inkscape:zoom="1.4259986"
+     inkscape:cx="818.2317"
+     inkscape:cy="780.53197"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -123,7 +123,7 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:snap-nodes="true"
-     inkscape:snap-global="false">
+     inkscape:snap-global="true">
     <inkscape:grid
        type="xygrid"
        id="grid7822"
@@ -149,6 +149,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(144.28584,3.7089703)">
+    <rect
+       style="fill:#888888;fill-opacity:1;stroke:none"
+       id="rect4070"
+       width="540"
+       height="50"
+       x="505.71417"
+       y="-223.70897" />
     <rect
        style="fill:#666666;fill-opacity:1;stroke:none"
        id="rect2730"
@@ -11785,7 +11792,7 @@
     </g>
     <g
        id="g5936"
-       transform="translate(-1.5258789e-5,-2.3841858e-7)">
+       transform="translate(-1.5258789e-5,0)">
       <rect
          style="color:#000000;fill:#e9e9e9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect5938"
@@ -15300,6 +15307,114 @@
            id="path3788"
            d="M 475.71416,224.63979 485.4483,246.37895 497.98692,234.52241 Z"
            style="fill:url(#linearGradient4032);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="g4034"
+       transform="matrix(-1,0,0,-1,1516.4283,172.58207)">
+      <rect
+         style="fill:#f8f8f8;fill-opacity:1;stroke:none"
+         id="rect4036"
+         width="34.999989"
+         height="35.000008"
+         x="470.71417"
+         y="211.29103" />
+      <g
+         id="g4038"
+         transform="translate(1.0728836e-4,10)">
+        <rect
+           y="211.29103"
+           x="480.71417"
+           height="14.999763"
+           width="14.999763"
+           id="rect4040"
+           style="color:#000000;fill:#f8f8f8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <rect
+           style="color:#000000;fill:#f8f8f8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect4042"
+           width="10.499825"
+           height="10.499825"
+           x="482.96414"
+           y="213.541" />
+        <g
+           transform="matrix(0.69999815,0,0,0.69999815,146.46512,65.63768)"
+           id="g4044">
+          <rect
+             style="fill:#000000;fill-opacity:1;stroke:none"
+             id="rect4046"
+             width="2.9999876"
+             height="2.9999876"
+             x="480.71417"
+             y="217.29092" />
+          <rect
+             y="217.29092"
+             x="492.71396"
+             height="2.9999876"
+             width="2.9999876"
+             id="rect4048"
+             style="fill:#000000;fill-opacity:1;stroke:none" />
+          <rect
+             style="fill:#000000;fill-opacity:1;stroke:none"
+             id="rect4050"
+             width="2.9999876"
+             height="2.9999876"
+             x="486.71405"
+             y="217.29092" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(-1,0,0,-1,1516.4283,132.58207)"
+       id="g4052">
+      <rect
+         y="211.29103"
+         x="470.71417"
+         height="35.000008"
+         width="34.999989"
+         id="rect4054"
+         style="fill:#e9e9e9;fill-opacity:1;stroke:none" />
+      <g
+         transform="translate(1.0728836e-4,10)"
+         id="g4056">
+        <rect
+           style="color:#000000;fill:#e9e9e9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect4058"
+           width="14.999763"
+           height="14.999763"
+           x="480.71417"
+           y="211.29103" />
+        <rect
+           y="213.541"
+           x="482.96414"
+           height="10.499825"
+           width="10.499825"
+           id="rect4060"
+           style="color:#000000;fill:#e9e9e9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <g
+           id="g4062"
+           transform="matrix(0.69999815,0,0,0.69999815,146.46512,65.63768)">
+          <rect
+             y="217.29092"
+             x="480.71417"
+             height="2.9999876"
+             width="2.9999876"
+             id="rect4064"
+             style="fill:#000000;fill-opacity:1;stroke:none" />
+          <rect
+             style="fill:#000000;fill-opacity:1;stroke:none"
+             id="rect4066"
+             width="2.9999876"
+             height="2.9999876"
+             x="492.71396"
+             y="217.29092" />
+          <rect
+             y="217.29092"
+             x="486.71405"
+             height="2.9999876"
+             width="2.9999876"
+             id="rect4068"
+             style="fill:#000000;fill-opacity:1;stroke:none" />
+        </g>
       </g>
     </g>
   </g>
