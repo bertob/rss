@@ -95,9 +95,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25208332"
-     inkscape:cx="-282.2978"
-     inkscape:cy="-5947.5601"
+     inkscape:zoom="1.0083333"
+     inkscape:cx="511.35643"
+     inkscape:cy="497.1215"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -182,7 +182,7 @@
        style="color:#000000;fill:#888888;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <rect
        transform="scale(1,-1)"
-       y="-646.29102"
+       y="-696.29102"
        x="-144.28581"
        height="700"
        width="1190"
@@ -295,7 +295,7 @@
          height="124.99992"
          width="480"
          id="rect3423"
-         style="color:#000000;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          transform="scale(1,-1)" />
       <text
          sodipodi:linespacing="125%"
@@ -9162,7 +9162,7 @@
          id="rect3081"
          style="color:#000000;fill:#2a2a2a;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
-         style="color:#000000;fill:#424242;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;fill:#3b3b3b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:16;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect10783"
          width="170"
          height="30.000002"
