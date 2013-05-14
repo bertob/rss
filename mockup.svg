@@ -33,6 +33,18 @@
          id="path6801-6"
          d="M 0,400 400,400 400,0 0,0 0,400 Z" />
     </clipPath>
+    <filter
+       inkscape:collect="always"
+       id="filter3166"
+       x="-0.085846192"
+       width="1.1716924"
+       y="-0.06199998"
+       height="1.124">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="4.6500021"
+         id="feGaussianBlur3168" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -307,6 +319,13 @@
     <g
        transform="translate(315.71422,-2546.0713)"
        id="g14693">
+      <rect
+         y="2546.3623"
+         x="-600"
+         height="180.00014"
+         width="130"
+         id="rect2344"
+         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3166);enable-background:accumulate" />
       <rect
          style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect14003"
