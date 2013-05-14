@@ -53,9 +53,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4259986"
-     inkscape:cx="-1436.5151"
-     inkscape:cy="571.97873"
+     inkscape:zoom="1.0083333"
+     inkscape:cx="713.17381"
+     inkscape:cy="490.57811"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -13784,5 +13784,59 @@
          x="-1693.6163"
          id="tspan3211"
          sodipodi:role="line">OMG! UBUNTU!</tspan></text>
+    <g
+       transform="matrix(-1,0,0,-1,976.42832,265.08206)"
+       id="g3216">
+      <rect
+         y="211.29103"
+         x="470.71417"
+         height="35.000008"
+         width="34.999989"
+         id="rect3218"
+         style="fill:#424242;fill-opacity:1;stroke:none" />
+      <g
+         transform="translate(1.0728836e-4,10)"
+         id="g3220">
+        <rect
+           style="color:#000000;fill:#424242;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect3222"
+           width="14.999763"
+           height="14.999763"
+           x="480.71417"
+           y="211.29103" />
+        <rect
+           y="213.541"
+           x="482.96414"
+           height="10.499825"
+           width="10.499825"
+           id="rect3224"
+           style="color:#000000;fill:#424242;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <g
+           id="g3226"
+           transform="matrix(0.69999815,0,0,0.69999815,146.46512,65.63768)">
+          <rect
+             y="217.29092"
+             x="480.71417"
+             height="2.9999876"
+             width="2.9999876"
+             id="rect3228"
+             style="fill:#eeeeee;fill-opacity:1;stroke:none" />
+          <rect
+             style="fill:#eeeeee;fill-opacity:1;stroke:none"
+             id="rect3230"
+             width="2.9999876"
+             height="2.9999876"
+             x="492.71396"
+             y="217.29092" />
+          <rect
+             y="217.29092"
+             x="486.71405"
+             height="2.9999876"
+             width="2.9999876"
+             id="rect3232"
+             style="fill:#eeeeee;fill-opacity:1;stroke:none" />
+        </g>
+      </g>
+    </g>
   </g>
 </svg>
