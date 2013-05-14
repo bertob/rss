@@ -35,15 +35,15 @@
     </clipPath>
     <filter
        inkscape:collect="always"
-       id="filter3166"
-       x="-0.085846192"
-       width="1.1716924"
-       y="-0.06199998"
-       height="1.124">
+       id="filter3178"
+       x="-0.19172316"
+       width="1.3834463"
+       y="-0.13846662"
+       height="1.2769332">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="4.6500021"
-         id="feGaussianBlur3168" />
+         stdDeviation="10.385005"
+         id="feGaussianBlur3180" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -54,8 +54,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0083333"
-     inkscape:cx="-19.460399"
-     inkscape:cy="666.65705"
+     inkscape:cx="258.22557"
+     inkscape:cy="468.30993"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -317,17 +317,17 @@
        y="-696.29102"
        transform="scale(1,-1)" />
     <g
-       transform="translate(315.71422,-2546.0713)"
+       transform="translate(275.71422,-2546.0713)"
        id="g14693">
       <rect
-         y="2546.3623"
+         y="2548.3623"
          x="-600"
          height="180.00014"
          width="130"
          id="rect2344"
-         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3166);enable-background:accumulate" />
+         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3178);enable-background:accumulate;opacity:0.594" />
       <rect
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect14003"
          width="130"
          height="180.00014"
@@ -335,7 +335,7 @@
          y="2542.3623" />
       <text
          xml:space="preserve"
-         style="font-size:12.50000000000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          x="-590"
          y="2622.3625"
          id="text14005"
@@ -349,7 +349,7 @@
          id="text14009"
          y="2562.3625"
          x="-590"
-         style="font-size:12.50000000000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          xml:space="preserve"><tspan
            y="2562.3625"
            x="-590"
@@ -357,7 +357,7 @@
            sodipodi:role="line">Add Feed</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:12.50000000000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          x="-590"
          y="2592.3625"
          id="text14013"
@@ -371,7 +371,7 @@
          id="text14017"
          y="2652.3625"
          x="-590"
-         style="font-size:12.50000000000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          xml:space="preserve"><tspan
            y="2652.3625"
            x="-590"
@@ -379,7 +379,7 @@
            sodipodi:role="line">bla</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:12.50000000000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          x="-590"
          y="2682.3625"
          id="text14021"
@@ -393,7 +393,7 @@
          id="text14025"
          y="2712.3625"
          x="-590"
-         style="font-size:12.50000000000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         style="font-size:12.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
          xml:space="preserve"><tspan
            y="2712.3625"
            x="-590"
