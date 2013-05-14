@@ -42,8 +42,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0083333"
-     inkscape:cx="456.57268"
-     inkscape:cy="904.67359"
+     inkscape:cx="-217.80752"
+     inkscape:cy="785.66532"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -10797,11 +10797,11 @@
        id="rect12159"
        width="128.57143"
        height="53.57143"
-       x="-317.14297"
-       y="219.86246" />
+       x="-817.14294"
+       y="-240.13754" />
     <rect
-       y="273.4339"
-       x="-317.14297"
+       y="-186.5661"
+       x="-817.14294"
        height="53.57143"
        width="128.57143"
        id="rect12161"
@@ -10811,8 +10811,8 @@
        id="rect12163"
        width="128.57143"
        height="53.57143"
-       x="-317.14297"
-       y="327.00531" />
+       x="-817.14294"
+       y="-132.99469" />
     <g
        id="g12219"
        transform="translate(0,-500)">
@@ -11541,7 +11541,7 @@
     </g>
     <g
        id="g12534"
-       transform="translate(0,-280)">
+       transform="translate(0,-370)">
       <rect
          y="-3.7089701"
          x="505.71417"
